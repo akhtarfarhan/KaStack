@@ -1,0 +1,15 @@
+# Datasets (CRITICAL: Do not push to public repo)
+data/
+
+# Output files
+outputs/
+
+# Environments and Secrets
+venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Streamlit specific
+.streamlit/
