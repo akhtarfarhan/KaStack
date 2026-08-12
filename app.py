@@ -29,7 +29,7 @@ st.markdown("Developed for KaStack Labs - AI/ML Engineer Intern Assignment")
 
 # --- Tabs ---
 tab1, tab2, tab3, tab4 = st.tabs([
-    "Mandatory Demo IDs (For Video)", 
+    "Mandatory Demo IDs", 
     "Part 1: Classifications", 
     "Part 2: Task & Event Extractions", 
     "Part 3: Sensitive Info (Masked)"
