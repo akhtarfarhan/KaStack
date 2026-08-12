@@ -110,7 +110,7 @@ class InformationExtractor:
                 item_id = f"EVNT_{event_counter:03d}"
                 event_counter += 1
             else:
-                continue # Skip all other categories
+                continue 
                 
             # Perform extraction
             results.append({
@@ -134,7 +134,7 @@ class InformationExtractor:
         print(f"Results saved to {output_json_path}")
 
 if __name__ == "__main__":
-    # Your exact absolute paths
+    # Paths
     RAW_CSV = r"C:\Users\farha\Desktop\KaStack\project_root\data\messages.csv"
     CLASS_JSON = r"C:\Users\farha\Desktop\KaStack\project_root\outputs\classification_report.json"
     OUTPUT_JSON = r"C:\Users\farha\Desktop\KaStack\project_root\outputs\extraction_report.json"
