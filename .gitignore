@@ -2,7 +2,7 @@
 data/
 
 # Output files
-outputs/
+# outputs/
 
 # Environments and Secrets
 venv/
