@@ -87,7 +87,7 @@ class PrivacyMasker:
         print(f"Masked dataset saved to: {masked_csv}")
 
 if __name__ == "__main__":
-    # Your exact absolute paths
+    # Paths
     INPUT_CSV = r"C:\Users\farha\Desktop\KaStack\project_root\data\messages.csv"
     MASKED_CSV = r"C:\Users\farha\Desktop\KaStack\project_root\outputs\masked_messages.csv"
     REPORT_JSON = r"C:\Users\farha\Desktop\KaStack\project_root\outputs\sensitive_report.json"
