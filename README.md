@@ -1,12 +1,12 @@
-]# 🛡️ AI/ML Message Processing Pipeline
+🛡️ AI/ML Message Processing Pipeline
 **KaStack Labs - AI/ML Engineer Intern Assignment**
 
-## 🚀 Overview
+## Overview
 This repository contains a privacy-first, local Natural Language Processing (NLP) pipeline designed to ingest, classify, and extract structured information from internal communications. 
 
 **The primary architectural constraint:** Absolute data privacy. To comply with strict internal security protocols, **no raw data is sent to external cloud LLM APIs.** The entire pipeline utilizes local rule-based heuristics and local Hugging Face transformer models to ensure zero data leakage.
 
-## ✨ Key Features
+## Key Features
 1. **Privacy Firewall (Zero-Leakage):** Scans and masks highly sensitive PII and financial data using strict Regex patterns *before* any ML processing occurs.
 2. **Local Zero-Shot Classification:** Categorizes messages using an on-device `facebook/bart-large-mnli` transformer model.
 3. **Deterministic Entity Extraction:** Utilizes `spaCy` (en_core_web_sm) combined with temporal logic to accurately extract tasks, events, dates, and assignees without AI hallucination.
@@ -14,7 +14,7 @@ This repository contains a privacy-first, local Natural Language Processing (NLP
 
 ---
 
-## 🏗️ System Architecture & Workflow
+## System Architecture & Workflow
 
 ### Phase 1: Sensitive Information Detection & Masking (`src/masker.py`)
 To ensure safety, we employ a "Privacy Firewall". 
@@ -34,7 +34,7 @@ To ensure safety, we employ a "Privacy Firewall".
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```text
 kastack_ml_assignment/
 ├── data/                       # Raw datasets (Git-ignored for privacy)
