@@ -76,7 +76,7 @@ class LocalMessageClassifier:
         print(f"Classification complete! Results saved to {output_json}")
 
 if __name__ == "__main__":
-    # Your exact absolute paths
+    # Paths
     INPUT_CSV = r"C:\Users\farha\Desktop\KaStack\project_root\outputs\masked_messages.csv"
     OUTPUT_JSON = r"C:\Users\farha\Desktop\KaStack\project_root\outputs\classification_report.json"
     
