@@ -27,16 +27,16 @@ def load_data():
 classifications, extractions, sensitive, groups, priorities, assistant = load_data()
 
 # --- UI Header ---
-st.title("🧠 AI/ML Message Processing Pipeline (L2 System)")
+st.title("AI/ML Message Processing Pipeline (L2 System)")
 st.markdown("Developed for KaStack Labs - Extended from L1 Architecture")
 
 # --- Tabs ---
 tab1, tab2, tab3, tab4, tab5 = st.tabs([
-    "🤖 Intelligent Assistant (Part 3)", 
-    "🗂️ Message Groups (Part 2)", 
-    "⚡ Priority Engine (Part 1)", 
-    "🛡️ Privacy Routing",
-    "📊 L1 vs L2 Benchmarks"
+    "Intelligent Assistant (Part 3)", 
+    "Message Groups (Part 2)", 
+    "Priority Engine (Part 1)", 
+    "Privacy Routing",
+    "L1 vs L2 Benchmarks"
 ])
 
 with tab1:
@@ -93,7 +93,7 @@ with tab4:
 with tab5:
     st.header("Optimization & Benchmarking (L1 vs L2)")
     st.markdown("""
-    ### 🚀 System Evolution
+    ### System Evolution
     * **L1 System:** Processed items iteratively in isolation. Fast, but lacked historical context.
     * **L2 System:** Introduces state management and semantic embeddings (`all-MiniLM-L6-v2`).
     

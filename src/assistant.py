@@ -143,7 +143,7 @@ class IntelligentAssistant:
         print(f"Results saved to {output_json}")
 
 if __name__ == "__main__":
-    # Absolute paths
+    # Paths
     QUERIES_CSV = r"C:\Users\farha\Desktop\KaStack\project_root\data\l2_demo_queries.csv"
     GROUP_JSON = r"C:\Users\farha\Desktop\KaStack\project_root\outputs\grouping_report.json"
     PRIORITY_JSON = r"C:\Users\farha\Desktop\KaStack\project_root\outputs\priority_report.json"

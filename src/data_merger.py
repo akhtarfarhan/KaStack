@@ -5,7 +5,7 @@ import os
 def merge_datasets():
     print("Loading L1 and L2 datasets...")
     
-    # Paths to your local data
+    # Paths to local data
     l1_path = r"C:\Users\farha\Desktop\KaStack\project_root\data\messages.csv"
     l2_path = r"C:\Users\farha\Desktop\KaStack\project_root\data\l2_messages.csv"
     demo_path = r"C:\Users\farha\Desktop\KaStack\project_root\data\l2_demo_messages.csv"

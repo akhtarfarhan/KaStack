@@ -115,7 +115,7 @@ class PriorityEngine:
         print(f"Saved to {output_json}")
 
 if __name__ == "__main__":
-    # Absolute paths
+    # Paths
     MASKED_CSV = r"C:\Users\farha\Desktop\KaStack\project_root\outputs\masked_messages.csv"
     EXTRACT_JSON = r"C:\Users\farha\Desktop\KaStack\project_root\outputs\extraction_report.json"
     GROUP_JSON = r"C:\Users\farha\Desktop\KaStack\project_root\outputs\grouping_report.json"
