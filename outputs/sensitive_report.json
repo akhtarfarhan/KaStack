@@ -628,5 +628,89 @@
     "risk": "high",
     "masked_text": "One more thing: Please note my bank account number ******.",
     "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_1036",
+    "sensitivity_type": "one_time_password",
+    "risk": "high",
+    "masked_text": "Your new OTP is ******. It expires shortly.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_1038",
+    "sensitivity_type": "bank_or_payment_details",
+    "risk": "high",
+    "masked_text": "The test card number is ******.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_1040",
+    "sensitivity_type": "private_address_contact",
+    "risk": "medium",
+    "masked_text": "Call me on ****** after the meeting.",
+    "recommended_action": "ask_for_confirmation"
+  },
+  {
+    "message_id": "MSG_1042",
+    "sensitivity_type": "password",
+    "risk": "high",
+    "masked_text": "The temporary password ****** L2Demo#884.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_1044",
+    "sensitivity_type": "bank_or_payment_details",
+    "risk": "high",
+    "masked_text": "The sample bank account is ******.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_1046",
+    "sensitivity_type": "one_time_password",
+    "risk": "high",
+    "masked_text": "Follow-up: Your new OTP is ******-B. It expires shortly-B.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_1048",
+    "sensitivity_type": "bank_or_payment_details",
+    "risk": "high",
+    "masked_text": "Follow-up: The test card number is ******-B.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_1050",
+    "sensitivity_type": "private_address_contact",
+    "risk": "medium",
+    "masked_text": "Follow-up: Call me on ****** after the meeting-B.",
+    "recommended_action": "ask_for_confirmation"
+  },
+  {
+    "message_id": "MSG_1052",
+    "sensitivity_type": "password",
+    "risk": "high",
+    "masked_text": "Follow-up: The temporary password ****** L2Demo#884-B.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "MSG_1054",
+    "sensitivity_type": "bank_or_payment_details",
+    "risk": "high",
+    "masked_text": "Follow-up: The sample bank account is ******-B.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "DEMO_012",
+    "sensitivity_type": "one_time_password",
+    "risk": "high",
+    "masked_text": "Your fictional OTP is ******. Do not share it.",
+    "recommended_action": "do_not_store"
+  },
+  {
+    "message_id": "DEMO_013",
+    "sensitivity_type": "password",
+    "risk": "high",
+    "masked_text": "Use temporary password ****** for the sample account.",
+    "recommended_action": "do_not_store"
   }
 ]

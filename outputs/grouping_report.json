@@ -1,0 +1,3454 @@
+[
+  {
+    "group_id": "GROUP_001",
+    "title": "For today: Calendar update: family dinne...",
+    "related_message_ids": [
+      "MSG_0001",
+      "MSG_0043",
+      "MSG_0123",
+      "MSG_0275",
+      "MSG_0435",
+      "MSG_0479",
+      "MSG_0603",
+      "MSG_0646",
+      "MSG_0697",
+      "MSG_0797",
+      "MSG_0845",
+      "MSG_0951",
+      "MSG_0958"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_001",
+      "EVNT_014",
+      "EVNT_031",
+      "EVNT_097",
+      "EVNT_107",
+      "EVNT_137",
+      "EVNT_147",
+      "EVNT_154",
+      "EVNT_174",
+      "EVNT_187",
+      "EVNT_207",
+      "EVNT_214"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "rescheduled",
+    "latest_deadline": "2026-10-06",
+    "confidence": 0.8
+  },
+  {
+    "group_id": "GROUP_002",
+    "title": "Can you review the privacy checklist bef...",
+    "related_message_ids": [
+      "MSG_0002",
+      "MSG_0058",
+      "MSG_0215",
+      "MSG_0481",
+      "MSG_0487",
+      "MSG_0569",
+      "MSG_0578",
+      "MSG_0621",
+      "MSG_0653",
+      "MSG_0893",
+      "MSG_0901",
+      "MSG_0915",
+      "MSG_0921",
+      "MSG_0980"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-30",
+    "confidence": 0.85
+  },
+  {
+    "group_id": "GROUP_003",
+    "title": "FYI: Reminder: mentor catch-up happens o...",
+    "related_message_ids": [
+      "MSG_0003",
+      "MSG_0122",
+      "MSG_0124",
+      "MSG_0135",
+      "MSG_0249",
+      "MSG_0294",
+      "MSG_0488",
+      "MSG_0719",
+      "MSG_0861",
+      "MSG_0866",
+      "MSG_0952",
+      "MSG_0969"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_002",
+      "EVNT_030",
+      "EVNT_032",
+      "EVNT_037",
+      "EVNT_062",
+      "EVNT_069",
+      "EVNT_109",
+      "EVNT_160",
+      "EVNT_192",
+      "EVNT_193",
+      "EVNT_208",
+      "EVNT_225"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "rescheduled",
+    "latest_deadline": "2026-10-05",
+    "confidence": 0.85
+  },
+  {
+    "group_id": "GROUP_004",
+    "title": "One more thing: The training material is...",
+    "related_message_ids": [
+      "MSG_0004",
+      "MSG_0329",
+      "MSG_0388",
+      "MSG_0478",
+      "MSG_0568",
+      "MSG_0644",
+      "MSG_0679",
+      "MSG_0724",
+      "MSG_0852",
+      "MSG_0885"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_003",
+      "EVNT_075",
+      "TASK_136",
+      "TASK_177",
+      "TASK_217",
+      "TASK_244",
+      "TASK_259",
+      "EVNT_162",
+      "EVNT_190",
+      "TASK_326"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-18",
+    "confidence": 0.94
+  },
+  {
+    "group_id": "GROUP_005",
+    "title": "Hi, My home address is ******....",
+    "related_message_ids": [
+      "MSG_0005",
+      "MSG_0130",
+      "MSG_0172",
+      "MSG_0199",
+      "MSG_0385",
+      "MSG_0475",
+      "MSG_0532",
+      "MSG_0535",
+      "MSG_0539",
+      "MSG_0802"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.82
+  },
+  {
+    "group_id": "GROUP_006",
+    "title": "Important: The laptop battery is fully c...",
+    "related_message_ids": [
+      "MSG_0006",
+      "MSG_0186",
+      "MSG_0194",
+      "MSG_0270",
+      "MSG_0290",
+      "MSG_0313",
+      "MSG_0325",
+      "MSG_0406",
+      "MSG_0555",
+      "MSG_0838"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_001",
+      "TASK_069",
+      "TASK_096",
+      "TASK_111",
+      "TASK_116",
+      "TASK_212",
+      "TASK_311"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-15",
+    "confidence": 0.83
+  },
+  {
+    "group_id": "GROUP_007",
+    "title": "For today: Please reply to the client em...",
+    "related_message_ids": [
+      "MSG_0007",
+      "MSG_0287",
+      "MSG_0301",
+      "MSG_0365",
+      "MSG_0366",
+      "MSG_0418",
+      "MSG_0451",
+      "MSG_0779",
+      "MSG_0784",
+      "MSG_0853",
+      "MSG_0997",
+      "MSG_1012"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_002",
+      "TASK_100",
+      "TASK_104",
+      "TASK_128",
+      "TASK_129",
+      "TASK_152",
+      "TASK_164",
+      "TASK_291",
+      "TASK_294",
+      "TASK_314",
+      "TASK_396",
+      "TASK_410"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-10",
+    "confidence": 0.79
+  },
+  {
+    "group_id": "GROUP_008",
+    "title": "Can you help? The building entrance has...",
+    "related_message_ids": [
+      "MSG_0008",
+      "MSG_0125",
+      "MSG_0161",
+      "MSG_0238",
+      "MSG_0320",
+      "MSG_0597",
+      "MSG_0671",
+      "MSG_0682",
+      "MSG_0698",
+      "MSG_0830"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_003",
+      "TASK_045",
+      "TASK_224",
+      "TASK_257",
+      "TASK_260"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "rescheduled",
+    "latest_deadline": "2026-09-04",
+    "confidence": 0.89
+  },
+  {
+    "group_id": "GROUP_009",
+    "title": "For my profile, my emergency contact is...",
+    "related_message_ids": [
+      "MSG_0009",
+      "MSG_0093",
+      "MSG_0109",
+      "MSG_0248",
+      "MSG_0296",
+      "MSG_0514",
+      "MSG_0613",
+      "MSG_0686",
+      "MSG_0833",
+      "MSG_0857"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.88
+  },
+  {
+    "group_id": "GROUP_010",
+    "title": "Can you help? Don't forget to pay the el...",
+    "related_message_ids": [
+      "MSG_0010",
+      "MSG_0265",
+      "MSG_0339",
+      "MSG_0536",
+      "MSG_0614",
+      "MSG_0620",
+      "MSG_0667",
+      "MSG_0743",
+      "MSG_0754",
+      "MSG_0809",
+      "MSG_0990"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_004",
+      "TASK_092",
+      "TASK_120",
+      "TASK_201",
+      "TASK_230",
+      "TASK_234",
+      "TASK_254",
+      "TASK_281",
+      "TASK_283",
+      "TASK_300",
+      "TASK_390"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-28",
+    "confidence": 0.81
+  },
+  {
+    "group_id": "GROUP_011",
+    "title": "Just checking\u2014Please join the internship...",
+    "related_message_ids": [
+      "MSG_0011",
+      "MSG_0034",
+      "MSG_0222",
+      "MSG_0255",
+      "MSG_0378",
+      "MSG_0430",
+      "MSG_0660",
+      "MSG_0683",
+      "MSG_0841",
+      "MSG_0847",
+      "MSG_0953",
+      "MSG_0955",
+      "DEMO_007",
+      "DEMO_009",
+      "DEMO_017"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_004",
+      "EVNT_009",
+      "TASK_082",
+      "EVNT_063",
+      "TASK_133",
+      "EVNT_148",
+      "TASK_261",
+      "EVNT_185",
+      "EVNT_188",
+      "EVNT_209",
+      "EVNT_211",
+      "EVNT_240",
+      "EVNT_242",
+      "EVNT_244"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "rescheduled",
+    "latest_deadline": "2026-10-07",
+    "confidence": 0.77
+  },
+  {
+    "group_id": "GROUP_012",
+    "title": "FYI: I will send the login details separ...",
+    "related_message_ids": [
+      "MSG_0012",
+      "MSG_0057",
+      "MSG_0148",
+      "MSG_0460",
+      "MSG_0533",
+      "MSG_0570",
+      "MSG_0692",
+      "MSG_0738",
+      "MSG_0771",
+      "MSG_0879"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_005",
+      "TASK_022",
+      "TASK_168",
+      "TASK_200",
+      "TASK_218",
+      "TASK_265",
+      "TASK_288",
+      "TASK_322"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-23",
+    "confidence": 0.89
+  },
+  {
+    "group_id": "GROUP_013",
+    "title": "One more thing: My card number is ******...",
+    "related_message_ids": [
+      "MSG_0013",
+      "MSG_0053",
+      "MSG_0118",
+      "MSG_0367",
+      "MSG_0419",
+      "MSG_0610",
+      "MSG_0649",
+      "MSG_0681",
+      "MSG_0684",
+      "MSG_0803",
+      "MSG_0812",
+      "MSG_0813",
+      "MSG_1038"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.8
+  },
+  {
+    "group_id": "GROUP_014",
+    "title": "Can you help? Special festival discount...",
+    "related_message_ids": [
+      "MSG_0014",
+      "MSG_0167",
+      "MSG_0663",
+      "MSG_0665",
+      "MSG_0712",
+      "MSG_0737",
+      "MSG_0766",
+      "MSG_0767",
+      "MSG_0844",
+      "MSG_0856"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.94
+  },
+  {
+    "group_id": "GROUP_015",
+    "title": "Please note: Flash sale on laptops start...",
+    "related_message_ids": [
+      "MSG_0015",
+      "MSG_0080",
+      "MSG_0104",
+      "MSG_0142",
+      "MSG_0237",
+      "MSG_0461",
+      "MSG_0608",
+      "MSG_0748",
+      "MSG_0835",
+      "MSG_0839"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.96
+  },
+  {
+    "group_id": "GROUP_016",
+    "title": "Just checking\u2014Remember that i drink coff...",
+    "related_message_ids": [
+      "MSG_0016",
+      "MSG_0069",
+      "MSG_0108",
+      "MSG_0146",
+      "MSG_0182",
+      "MSG_0185",
+      "MSG_0380",
+      "MSG_0518",
+      "MSG_0560",
+      "MSG_0858"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_028",
+      "TASK_051"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-05",
+    "confidence": 0.89
+  },
+  {
+    "group_id": "GROUP_017",
+    "title": "Can you help? I need you to renew the li...",
+    "related_message_ids": [
+      "MSG_0017",
+      "MSG_0063",
+      "MSG_0072",
+      "MSG_0083",
+      "MSG_0178",
+      "MSG_0232",
+      "MSG_0515",
+      "MSG_0553",
+      "MSG_0638",
+      "MSG_0740",
+      "MSG_0904",
+      "MSG_0917",
+      "MSG_0919",
+      "MSG_0920",
+      "MSG_0924",
+      "MSG_0975",
+      "MSG_0986"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_006",
+      "TASK_025",
+      "TASK_030",
+      "TASK_031",
+      "TASK_066",
+      "TASK_086",
+      "TASK_193",
+      "TASK_210",
+      "TASK_240",
+      "TASK_279",
+      "TASK_332",
+      "TASK_344",
+      "TASK_346",
+      "TASK_347",
+      "TASK_350",
+      "TASK_376",
+      "TASK_386"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-10-01",
+    "confidence": 0.8
+  },
+  {
+    "group_id": "GROUP_018",
+    "title": "One more thing: My recent test result sa...",
+    "related_message_ids": [
+      "MSG_0018",
+      "MSG_0078",
+      "MSG_0106",
+      "MSG_0187",
+      "MSG_0416",
+      "MSG_0494",
+      "MSG_0507",
+      "MSG_0581",
+      "MSG_0739",
+      "MSG_0772"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_190"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.88
+  },
+  {
+    "group_id": "GROUP_019",
+    "title": "Can you help? I need you to review the m...",
+    "related_message_ids": [
+      "MSG_0019",
+      "MSG_0111",
+      "MSG_0173",
+      "MSG_0175",
+      "MSG_0306",
+      "MSG_0425",
+      "MSG_0467",
+      "MSG_0537",
+      "MSG_0783",
+      "MSG_0883",
+      "MSG_0974"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_007",
+      "TASK_039",
+      "TASK_061",
+      "TASK_063",
+      "TASK_106",
+      "TASK_156",
+      "TASK_170",
+      "TASK_202",
+      "TASK_293",
+      "TASK_324",
+      "TASK_375"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-30",
+    "confidence": 0.81
+  },
+  {
+    "group_id": "GROUP_020",
+    "title": "Hi, Join our premium plan for exclusive...",
+    "related_message_ids": [
+      "MSG_0020",
+      "MSG_0076",
+      "MSG_0081",
+      "MSG_0085",
+      "MSG_0304",
+      "MSG_0448",
+      "MSG_0497",
+      "MSG_0567",
+      "MSG_0832",
+      "MSG_0881"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_323"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.95
+  },
+  {
+    "group_id": "GROUP_021",
+    "title": "One more thing: The webinar recording is...",
+    "related_message_ids": [
+      "MSG_0021",
+      "MSG_0050",
+      "MSG_0159",
+      "MSG_0253",
+      "MSG_0383",
+      "MSG_0434",
+      "MSG_0609",
+      "MSG_0669",
+      "MSG_0675",
+      "MSG_0843",
+      "MSG_1077"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_005",
+      "TASK_019",
+      "EVNT_044",
+      "TASK_091",
+      "EVNT_088",
+      "TASK_158",
+      "EVNT_149",
+      "TASK_258",
+      "EVNT_186"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-18",
+    "confidence": 0.94
+  },
+  {
+    "group_id": "GROUP_022",
+    "title": "Can you help? Personal note: my favourit...",
+    "related_message_ids": [
+      "MSG_0022",
+      "MSG_0099",
+      "MSG_0158",
+      "MSG_0165",
+      "MSG_0260",
+      "MSG_0381",
+      "MSG_0504",
+      "MSG_0746",
+      "MSG_0790",
+      "MSG_0891"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.81
+  },
+  {
+    "group_id": "GROUP_023",
+    "title": "Hi, Calendar update: team stand-up, 2026...",
+    "related_message_ids": [
+      "MSG_0023",
+      "MSG_0097",
+      "MSG_0129",
+      "MSG_0154",
+      "MSG_0156",
+      "MSG_0201",
+      "MSG_0209",
+      "MSG_0458",
+      "MSG_0484",
+      "MSG_0584",
+      "MSG_0631",
+      "MSG_0744",
+      "MSG_0821",
+      "MSG_0822",
+      "MSG_0871",
+      "MSG_0954"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_006",
+      "EVNT_025",
+      "EVNT_034",
+      "EVNT_042",
+      "EVNT_043",
+      "EVNT_052",
+      "EVNT_054",
+      "EVNT_104",
+      "EVNT_108",
+      "EVNT_131",
+      "EVNT_145",
+      "EVNT_163",
+      "EVNT_180",
+      "EVNT_181",
+      "EVNT_195",
+      "EVNT_210"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "rescheduled",
+    "latest_deadline": "2026-10-02",
+    "confidence": 0.76
+  },
+  {
+    "group_id": "GROUP_024",
+    "title": "Just checking\u2014I might prefer evening mee...",
+    "related_message_ids": [
+      "MSG_0024",
+      "MSG_0084",
+      "MSG_0189",
+      "MSG_0228",
+      "MSG_0319",
+      "MSG_0371",
+      "MSG_0372",
+      "MSG_0402",
+      "MSG_0408",
+      "MSG_0437",
+      "MSG_0489",
+      "MSG_0500",
+      "MSG_0501",
+      "MSG_0510",
+      "MSG_0522",
+      "MSG_0544",
+      "MSG_0629",
+      "MSG_0685",
+      "MSG_0713",
+      "MSG_0773"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_007",
+      "EVNT_023",
+      "EVNT_059",
+      "EVNT_073",
+      "EVNT_085",
+      "EVNT_090",
+      "EVNT_091",
+      "EVNT_098",
+      "EVNT_110",
+      "EVNT_112",
+      "EVNT_113",
+      "EVNT_116",
+      "EVNT_119",
+      "EVNT_143",
+      "EVNT_152",
+      "EVNT_158",
+      "EVNT_168"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-18",
+    "confidence": 0.89
+  },
+  {
+    "group_id": "GROUP_025",
+    "title": "FYI: The office Wi-Fi will be under main...",
+    "related_message_ids": [
+      "MSG_0025",
+      "MSG_0174",
+      "MSG_0324",
+      "MSG_0545",
+      "MSG_0593",
+      "MSG_0689",
+      "MSG_0734",
+      "MSG_0755",
+      "MSG_0806",
+      "MSG_0896"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_062",
+      "TASK_115",
+      "TASK_205",
+      "TASK_284",
+      "TASK_299",
+      "TASK_328"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-24",
+    "confidence": 0.92
+  },
+  {
+    "group_id": "GROUP_026",
+    "title": "Quick update: The shuttle leaves every t...",
+    "related_message_ids": [
+      "MSG_0026",
+      "MSG_0070",
+      "MSG_0266",
+      "MSG_0472",
+      "MSG_0563",
+      "MSG_0700",
+      "MSG_0701",
+      "MSG_0764",
+      "MSG_0782",
+      "MSG_0872"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_008",
+      "TASK_029",
+      "TASK_093",
+      "TASK_173",
+      "TASK_268",
+      "TASK_269",
+      "TASK_321"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-08",
+    "confidence": 0.92
+  },
+  {
+    "group_id": "GROUP_027",
+    "title": "Please note: Please confirm the intervie...",
+    "related_message_ids": [
+      "MSG_0027",
+      "MSG_0171",
+      "MSG_0195",
+      "MSG_0220",
+      "MSG_0314",
+      "MSG_0335",
+      "MSG_0480",
+      "MSG_0527",
+      "MSG_0557",
+      "MSG_0617",
+      "MSG_0906",
+      "MSG_0972",
+      "MSG_0976",
+      "MSG_0982"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_009",
+      "TASK_060",
+      "TASK_071",
+      "TASK_080",
+      "TASK_112",
+      "TASK_119",
+      "TASK_178",
+      "TASK_197",
+      "TASK_213",
+      "TASK_232",
+      "TASK_334",
+      "TASK_373",
+      "TASK_377",
+      "TASK_382"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-10-02",
+    "confidence": 0.83
+  },
+  {
+    "group_id": "GROUP_028",
+    "title": "For today: Don't forget to email the sig...",
+    "related_message_ids": [
+      "MSG_0028",
+      "MSG_0046",
+      "MSG_0065",
+      "MSG_0101",
+      "MSG_0309",
+      "MSG_0368",
+      "MSG_0394",
+      "MSG_0605",
+      "MSG_0799",
+      "MSG_0829",
+      "MSG_0862",
+      "MSG_0918",
+      "MSG_0927",
+      "MSG_0933",
+      "MSG_1058",
+      "MSG_1063",
+      "DEMO_002"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_010",
+      "TASK_018",
+      "TASK_026",
+      "TASK_036",
+      "TASK_108",
+      "TASK_130",
+      "TASK_139",
+      "TASK_227",
+      "TASK_297",
+      "TASK_310",
+      "TASK_316",
+      "TASK_345",
+      "TASK_353",
+      "TASK_358",
+      "TASK_436",
+      "TASK_440",
+      "TASK_450"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "completed",
+    "latest_deadline": "2026-10-03",
+    "confidence": 0.71
+  },
+  {
+    "group_id": "GROUP_029",
+    "title": "Can you help? Just so you know, i prefer...",
+    "related_message_ids": [
+      "MSG_0029",
+      "MSG_0087",
+      "MSG_0179",
+      "MSG_0181",
+      "MSG_0241",
+      "MSG_0308",
+      "MSG_0626",
+      "MSG_0703",
+      "MSG_0781",
+      "MSG_0887"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_068"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-05",
+    "confidence": 0.85
+  },
+  {
+    "group_id": "GROUP_030",
+    "title": "FYI: The project folder was reorganized....",
+    "related_message_ids": [
+      "MSG_0030",
+      "MSG_0176",
+      "MSG_0370",
+      "MSG_0387",
+      "MSG_0392",
+      "MSG_0459",
+      "MSG_0520",
+      "MSG_0538",
+      "MSG_0704",
+      "MSG_0709"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_064",
+      "TASK_132",
+      "TASK_135",
+      "TASK_137",
+      "TASK_167",
+      "TASK_196",
+      "TASK_203",
+      "TASK_270",
+      "TASK_272"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-05",
+    "confidence": 0.92
+  },
+  {
+    "group_id": "GROUP_031",
+    "title": "Can you update the project tracker befor...",
+    "related_message_ids": [
+      "MSG_0031",
+      "MSG_0038",
+      "MSG_0139",
+      "MSG_0300",
+      "MSG_0412",
+      "MSG_0622",
+      "MSG_0656",
+      "MSG_0708",
+      "MSG_0736",
+      "MSG_0884",
+      "MSG_0908",
+      "MSG_0911",
+      "MSG_0928",
+      "MSG_0942",
+      "MSG_0996",
+      "MSG_1011",
+      "DEMO_003",
+      "DEMO_006"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_011",
+      "TASK_014",
+      "TASK_048",
+      "TASK_103",
+      "TASK_150",
+      "TASK_235",
+      "TASK_248",
+      "TASK_271",
+      "TASK_278",
+      "TASK_325",
+      "TASK_336",
+      "TASK_339",
+      "TASK_354",
+      "TASK_365",
+      "TASK_395",
+      "TASK_409",
+      "TASK_451",
+      "TASK_454"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "cancelled",
+    "latest_deadline": "2026-10-06",
+    "confidence": 0.76
+  },
+  {
+    "group_id": "GROUP_032",
+    "title": "Important: Don't forget to upload the as...",
+    "related_message_ids": [
+      "MSG_0032",
+      "MSG_0269",
+      "MSG_0345",
+      "MSG_0498",
+      "MSG_0554",
+      "MSG_0633",
+      "MSG_0640",
+      "MSG_0670",
+      "MSG_0688",
+      "MSG_0761",
+      "DEMO_020"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_012",
+      "TASK_095",
+      "TASK_123",
+      "TASK_186",
+      "TASK_211",
+      "TASK_237",
+      "TASK_242",
+      "TASK_256",
+      "TASK_262",
+      "TASK_286",
+      "TASK_458"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-10-20",
+    "confidence": 0.85
+  },
+  {
+    "group_id": "GROUP_033",
+    "title": "Just checking\u2014The event registration des...",
+    "related_message_ids": [
+      "MSG_0033",
+      "MSG_0064",
+      "MSG_0096",
+      "MSG_0141",
+      "MSG_0149",
+      "MSG_0197",
+      "MSG_0224",
+      "MSG_0431",
+      "MSG_0452",
+      "MSG_0562"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_008",
+      "EVNT_019",
+      "EVNT_024",
+      "EVNT_039",
+      "EVNT_040",
+      "EVNT_050",
+      "EVNT_057",
+      "EVNT_096",
+      "TASK_165",
+      "EVNT_126"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-04",
+    "confidence": 0.95
+  },
+  {
+    "group_id": "GROUP_034",
+    "title": "For today: Complete the onboarding form...",
+    "related_message_ids": [
+      "MSG_0035",
+      "MSG_0045",
+      "MSG_0060",
+      "MSG_0331",
+      "MSG_0398",
+      "MSG_0420",
+      "MSG_0546",
+      "MSG_0551",
+      "MSG_0585",
+      "MSG_0624"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_013",
+      "TASK_017",
+      "TASK_024",
+      "TASK_117",
+      "TASK_142",
+      "TASK_153",
+      "TASK_206",
+      "TASK_208",
+      "TASK_222",
+      "TASK_236"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-10",
+    "confidence": 0.92
+  },
+  {
+    "group_id": "GROUP_035",
+    "title": "Please join the study-group session on 2...",
+    "related_message_ids": [
+      "MSG_0036",
+      "MSG_0162",
+      "MSG_0223",
+      "MSG_0311",
+      "MSG_0508",
+      "MSG_0549",
+      "MSG_0623",
+      "MSG_0706",
+      "MSG_0793",
+      "MSG_0873",
+      "MSG_0956"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_010",
+      "EVNT_045",
+      "EVNT_056",
+      "EVNT_071",
+      "EVNT_115",
+      "EVNT_123",
+      "EVNT_141",
+      "EVNT_155",
+      "EVNT_172",
+      "EVNT_196",
+      "EVNT_212"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "rescheduled",
+    "latest_deadline": "2026-10-04",
+    "confidence": 0.81
+  },
+  {
+    "group_id": "GROUP_036",
+    "title": "One more thing: The review could be Frid...",
+    "related_message_ids": [
+      "MSG_0037",
+      "MSG_0054",
+      "MSG_0098",
+      "MSG_0213",
+      "MSG_0217",
+      "MSG_0462",
+      "MSG_0493",
+      "MSG_0635",
+      "MSG_0840",
+      "MSG_0886"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_011",
+      "EVNT_016",
+      "EVNT_026",
+      "EVNT_055",
+      "EVNT_105",
+      "TASK_184",
+      "EVNT_146",
+      "EVNT_184",
+      "EVNT_201"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-24",
+    "confidence": 0.93
+  },
+  {
+    "group_id": "GROUP_037",
+    "title": "For today: Maya asked whether the demo w...",
+    "related_message_ids": [
+      "MSG_0039",
+      "MSG_0132",
+      "MSG_0180",
+      "MSG_0277",
+      "MSG_0348",
+      "MSG_0428",
+      "MSG_0439",
+      "MSG_0464",
+      "MSG_0469",
+      "MSG_0728"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_015",
+      "TASK_046",
+      "TASK_067",
+      "TASK_097",
+      "TASK_124",
+      "TASK_157",
+      "TASK_160",
+      "TASK_169",
+      "TASK_172",
+      "TASK_275"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-02",
+    "confidence": 0.92
+  },
+  {
+    "group_id": "GROUP_038",
+    "title": "For today: For my profile, i am vegetari...",
+    "related_message_ids": [
+      "MSG_0040",
+      "MSG_0094",
+      "MSG_0166",
+      "MSG_0212",
+      "MSG_0426",
+      "MSG_0453",
+      "MSG_0729",
+      "MSG_0733",
+      "MSG_0867"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.78
+  },
+  {
+    "group_id": "GROUP_039",
+    "title": "For today: If possible, review the file...",
+    "related_message_ids": [
+      "MSG_0041",
+      "MSG_0110",
+      "MSG_0190",
+      "MSG_0198",
+      "MSG_0377",
+      "MSG_0457",
+      "MSG_0524",
+      "MSG_0559",
+      "MSG_0580",
+      "MSG_0816"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_012",
+      "EVNT_028",
+      "EVNT_049",
+      "EVNT_051",
+      "EVNT_086",
+      "EVNT_103",
+      "EVNT_120",
+      "EVNT_125",
+      "EVNT_130",
+      "EVNT_179"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-02",
+    "confidence": 0.94
+  },
+  {
+    "group_id": "GROUP_040",
+    "title": "For today: The client discussion is sche...",
+    "related_message_ids": [
+      "MSG_0042",
+      "MSG_0055",
+      "MSG_0258",
+      "MSG_0302",
+      "MSG_0356",
+      "MSG_0456",
+      "MSG_0588",
+      "MSG_0788",
+      "MSG_0868",
+      "MSG_0878",
+      "MSG_0957",
+      "MSG_0961"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_013",
+      "EVNT_017",
+      "EVNT_064",
+      "EVNT_070",
+      "EVNT_081",
+      "EVNT_102",
+      "EVNT_132",
+      "EVNT_169",
+      "EVNT_194",
+      "EVNT_199",
+      "EVNT_213",
+      "EVNT_217"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "rescheduled",
+    "latest_deadline": "2026-10-09",
+    "confidence": 0.85
+  },
+  {
+    "group_id": "GROUP_041",
+    "title": "Just checking\u2014Please complete the Python...",
+    "related_message_ids": [
+      "MSG_0044",
+      "MSG_0114",
+      "MSG_0145",
+      "MSG_0245",
+      "MSG_0396",
+      "MSG_0422",
+      "MSG_0577",
+      "MSG_0694",
+      "MSG_0814",
+      "MSG_0898",
+      "MSG_0912"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_016",
+      "TASK_042",
+      "TASK_050",
+      "TASK_088",
+      "TASK_141",
+      "TASK_154",
+      "TASK_221",
+      "TASK_266",
+      "TASK_301",
+      "TASK_329",
+      "TASK_340"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-10",
+    "confidence": 0.81
+  },
+  {
+    "group_id": "GROUP_042",
+    "title": "Just checking\u2014My account recovery code i...",
+    "related_message_ids": [
+      "MSG_0047",
+      "MSG_0120",
+      "MSG_0137",
+      "MSG_0155",
+      "MSG_0233",
+      "MSG_0315",
+      "MSG_0403",
+      "MSG_0678",
+      "MSG_0723",
+      "MSG_0753"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.9
+  },
+  {
+    "group_id": "GROUP_043",
+    "title": "One more thing: For my profile, i live n...",
+    "related_message_ids": [
+      "MSG_0048",
+      "MSG_0239",
+      "MSG_0353",
+      "MSG_0421",
+      "MSG_0429",
+      "MSG_0446",
+      "MSG_0542",
+      "MSG_0718",
+      "MSG_0796",
+      "MSG_0869"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_044",
+    "title": "One more thing: The product demo is sche...",
+    "related_message_ids": [
+      "MSG_0049",
+      "MSG_0077",
+      "MSG_0113",
+      "MSG_0131",
+      "MSG_0136",
+      "MSG_0138",
+      "MSG_0147",
+      "MSG_0203",
+      "MSG_0338",
+      "MSG_0342",
+      "MSG_0361",
+      "MSG_0423",
+      "MSG_0606",
+      "MSG_0619",
+      "MSG_0707",
+      "MSG_0759",
+      "MSG_0959",
+      "MSG_0965"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_015",
+      "EVNT_022",
+      "TASK_041",
+      "EVNT_035",
+      "TASK_047",
+      "EVNT_038",
+      "TASK_052",
+      "TASK_073",
+      "EVNT_077",
+      "EVNT_078",
+      "TASK_127",
+      "EVNT_094",
+      "EVNT_138",
+      "EVNT_140",
+      "EVNT_156",
+      "EVNT_166",
+      "EVNT_215",
+      "EVNT_221"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "rescheduled",
+    "latest_deadline": "2026-10-07",
+    "confidence": 0.79
+  },
+  {
+    "group_id": "GROUP_045",
+    "title": "Important: Reminder: doctor appointment...",
+    "related_message_ids": [
+      "MSG_0051",
+      "MSG_0127",
+      "MSG_0405",
+      "MSG_0465",
+      "MSG_0511",
+      "MSG_0592",
+      "MSG_0601",
+      "MSG_0637",
+      "MSG_0673",
+      "MSG_0711",
+      "MSG_0960"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_020",
+      "EVNT_033",
+      "TASK_147",
+      "EVNT_106",
+      "EVNT_117",
+      "EVNT_134",
+      "EVNT_136",
+      "TASK_239",
+      "EVNT_150",
+      "EVNT_157",
+      "EVNT_216"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "rescheduled",
+    "latest_deadline": "2026-10-08",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_046",
+    "title": "Quick update: The cafeteria closes at 8...",
+    "related_message_ids": [
+      "MSG_0052",
+      "MSG_0091",
+      "MSG_0107",
+      "MSG_0225",
+      "MSG_0274",
+      "MSG_0303",
+      "MSG_0433",
+      "MSG_0442",
+      "MSG_0482",
+      "MSG_0509"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_021",
+      "TASK_034",
+      "TASK_038",
+      "TASK_083",
+      "TASK_105",
+      "TASK_161",
+      "TASK_179"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-03",
+    "confidence": 0.89
+  },
+  {
+    "group_id": "GROUP_047",
+    "title": "Please note: Please call Maya when you a...",
+    "related_message_ids": [
+      "MSG_0056",
+      "MSG_0121",
+      "MSG_0193",
+      "MSG_0410",
+      "MSG_0438",
+      "MSG_0495",
+      "MSG_0634",
+      "MSG_0717",
+      "MSG_0811",
+      "MSG_0827"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_029",
+      "TASK_149",
+      "TASK_159",
+      "TASK_185",
+      "TASK_238",
+      "TASK_309"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-22",
+    "confidence": 0.94
+  },
+  {
+    "group_id": "GROUP_048",
+    "title": "Important: The new Python version is ava...",
+    "related_message_ids": [
+      "MSG_0059",
+      "MSG_0246",
+      "MSG_0336",
+      "MSG_0490",
+      "MSG_0516",
+      "MSG_0587",
+      "MSG_0677",
+      "MSG_0710",
+      "MSG_0774",
+      "MSG_0794"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_023",
+      "EVNT_111",
+      "TASK_194",
+      "TASK_296"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.9
+  },
+  {
+    "group_id": "GROUP_049",
+    "title": "Quick update: Get 25% off selected headp...",
+    "related_message_ids": [
+      "MSG_0061",
+      "MSG_0082",
+      "MSG_0205",
+      "MSG_0256",
+      "MSG_0292",
+      "MSG_0415",
+      "MSG_0541",
+      "MSG_0583",
+      "MSG_0655",
+      "MSG_0762"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.95
+  },
+  {
+    "group_id": "GROUP_050",
+    "title": "Please join the AI workshop on 2026-09-0...",
+    "related_message_ids": [
+      "MSG_0062",
+      "MSG_0067",
+      "MSG_0168",
+      "MSG_0244",
+      "MSG_0330",
+      "MSG_0449",
+      "MSG_0628",
+      "MSG_0745",
+      "MSG_0747",
+      "MSG_0895",
+      "MSG_0962",
+      "MSG_0964"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_018",
+      "EVNT_021",
+      "EVNT_046",
+      "EVNT_061",
+      "EVNT_076",
+      "TASK_163",
+      "EVNT_142",
+      "EVNT_164",
+      "EVNT_165",
+      "EVNT_203",
+      "EVNT_218",
+      "EVNT_220"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "rescheduled",
+    "latest_deadline": "2026-10-10",
+    "confidence": 0.75
+  },
+  {
+    "group_id": "GROUP_051",
+    "title": "Can you help? The project review is sche...",
+    "related_message_ids": [
+      "MSG_0066",
+      "MSG_0151",
+      "MSG_0216",
+      "MSG_0357",
+      "MSG_0382",
+      "MSG_0427",
+      "MSG_0674",
+      "MSG_0693",
+      "MSG_0792",
+      "MSG_0963"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_020",
+      "TASK_077",
+      "EVNT_082",
+      "EVNT_087",
+      "EVNT_095",
+      "EVNT_151",
+      "EVNT_153",
+      "EVNT_171",
+      "EVNT_219"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "rescheduled",
+    "latest_deadline": "2026-09-29",
+    "confidence": 0.84
+  },
+  {
+    "group_id": "GROUP_052",
+    "title": "One more thing: The report template has...",
+    "related_message_ids": [
+      "MSG_0068",
+      "MSG_0188",
+      "MSG_0200",
+      "MSG_0322",
+      "MSG_0506",
+      "MSG_0543",
+      "MSG_0571",
+      "MSG_0732",
+      "MSG_0741",
+      "MSG_0825",
+      "MSG_1066"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_027",
+      "TASK_070",
+      "TASK_072",
+      "TASK_189",
+      "TASK_204",
+      "TASK_219",
+      "TASK_277",
+      "TASK_280",
+      "TASK_307",
+      "TASK_443"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "completed",
+    "latest_deadline": "2026-09-06",
+    "confidence": 0.82
+  },
+  {
+    "group_id": "GROUP_053",
+    "title": "Quick update: Upgrade your subscription...",
+    "related_message_ids": [
+      "MSG_0071",
+      "MSG_0073",
+      "MSG_0259",
+      "MSG_0261",
+      "MSG_0328",
+      "MSG_0391",
+      "MSG_0676",
+      "MSG_0714",
+      "MSG_0735",
+      "MSG_0765"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.94
+  },
+  {
+    "group_id": "GROUP_054",
+    "title": "Just checking\u2014The temporary access token...",
+    "related_message_ids": [
+      "MSG_0074",
+      "MSG_0117",
+      "MSG_0351",
+      "MSG_0389",
+      "MSG_0436",
+      "MSG_0572",
+      "MSG_0591",
+      "MSG_0687",
+      "MSG_0715",
+      "MSG_0778"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.94
+  },
+  {
+    "group_id": "GROUP_055",
+    "title": "Just checking\u2014Tomorrow is a public holid...",
+    "related_message_ids": [
+      "MSG_0075",
+      "MSG_0116",
+      "MSG_0128",
+      "MSG_0286",
+      "MSG_0404",
+      "MSG_0440",
+      "MSG_0528",
+      "MSG_0575",
+      "MSG_0625",
+      "MSG_0731"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_146"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-12",
+    "confidence": 0.85
+  },
+  {
+    "group_id": "GROUP_056",
+    "title": "FYI: The library has extended weekend ho...",
+    "related_message_ids": [
+      "MSG_0079",
+      "MSG_0214",
+      "MSG_0247",
+      "MSG_0279",
+      "MSG_0285",
+      "MSG_0470",
+      "MSG_0558",
+      "MSG_0691",
+      "MSG_0705",
+      "MSG_0846"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_076",
+      "TASK_214",
+      "TASK_264"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.89
+  },
+  {
+    "group_id": "GROUP_057",
+    "title": "Use password ****** to sign in to the te...",
+    "related_message_ids": [
+      "MSG_0086",
+      "MSG_0095",
+      "MSG_0140",
+      "MSG_0344",
+      "MSG_0346",
+      "MSG_0376",
+      "MSG_0471",
+      "MSG_0727",
+      "MSG_0749",
+      "MSG_0777",
+      "DEMO_013"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.85
+  },
+  {
+    "group_id": "GROUP_058",
+    "title": "One more thing: Can you finish the test...",
+    "related_message_ids": [
+      "MSG_0088",
+      "MSG_0153",
+      "MSG_0210",
+      "MSG_0221",
+      "MSG_0289",
+      "MSG_0468",
+      "MSG_0574",
+      "MSG_0602",
+      "MSG_0618",
+      "MSG_0826",
+      "MSG_0979",
+      "MSG_0983"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_032",
+      "TASK_054",
+      "TASK_075",
+      "TASK_081",
+      "TASK_101",
+      "TASK_171",
+      "TASK_220",
+      "TASK_226",
+      "TASK_233",
+      "TASK_308",
+      "TASK_380",
+      "TASK_383"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-29",
+    "confidence": 0.84
+  },
+  {
+    "group_id": "GROUP_059",
+    "title": "Just checking\u2014Don't forget to call the s...",
+    "related_message_ids": [
+      "MSG_0089",
+      "MSG_0115",
+      "MSG_0144",
+      "MSG_0150",
+      "MSG_0163",
+      "MSG_0251",
+      "MSG_0283",
+      "MSG_0503",
+      "MSG_0757",
+      "MSG_0988"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_033",
+      "TASK_043",
+      "TASK_049",
+      "TASK_053",
+      "TASK_057",
+      "TASK_089",
+      "TASK_099",
+      "TASK_187",
+      "TASK_285",
+      "TASK_388"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-10-02",
+    "confidence": 0.89
+  },
+  {
+    "group_id": "GROUP_060",
+    "title": "FYI: The weather forecast says light rai...",
+    "related_message_ids": [
+      "MSG_0090",
+      "MSG_0284",
+      "MSG_0333",
+      "MSG_0443",
+      "MSG_0463",
+      "MSG_0477",
+      "MSG_0491",
+      "MSG_0582",
+      "MSG_0589",
+      "MSG_0672"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_162",
+      "TASK_176",
+      "TASK_223"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.9
+  },
+  {
+    "group_id": "GROUP_061",
+    "title": "Quick update: Limited-time offer: buy on...",
+    "related_message_ids": [
+      "MSG_0092",
+      "MSG_0105",
+      "MSG_0192",
+      "MSG_0432",
+      "MSG_0647",
+      "MSG_0666",
+      "MSG_0680",
+      "MSG_0721",
+      "MSG_0760",
+      "MSG_0897"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.96
+  },
+  {
+    "group_id": "GROUP_062",
+    "title": "Hi, Reminder: sprint planning happens on...",
+    "related_message_ids": [
+      "MSG_0100",
+      "MSG_0169",
+      "MSG_0177",
+      "MSG_0218",
+      "MSG_0268",
+      "MSG_0424",
+      "MSG_0643",
+      "MSG_0645",
+      "MSG_0664",
+      "MSG_0668",
+      "MSG_0967"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_035",
+      "TASK_059",
+      "TASK_065",
+      "TASK_078",
+      "TASK_094",
+      "TASK_155",
+      "TASK_243",
+      "TASK_245",
+      "TASK_253",
+      "TASK_255",
+      "EVNT_223"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "rescheduled",
+    "latest_deadline": "2026-10-03",
+    "confidence": 0.87
+  },
+  {
+    "group_id": "GROUP_063",
+    "title": "FYI: Can you send the revised presentati...",
+    "related_message_ids": [
+      "MSG_0102",
+      "MSG_0112",
+      "MSG_0231",
+      "MSG_0307",
+      "MSG_0317",
+      "MSG_0407",
+      "MSG_0512",
+      "MSG_0662",
+      "MSG_0725",
+      "MSG_0780",
+      "MSG_0985",
+      "MSG_0999"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_027",
+      "TASK_040",
+      "TASK_085",
+      "TASK_107",
+      "TASK_113",
+      "TASK_148",
+      "TASK_191",
+      "TASK_252",
+      "TASK_274",
+      "TASK_292",
+      "TASK_385",
+      "EVNT_228"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "completed",
+    "latest_deadline": "2026-09-29",
+    "confidence": 0.76
+  },
+  {
+    "group_id": "GROUP_064",
+    "title": "Important: Are you available for the tec...",
+    "related_message_ids": [
+      "MSG_0103",
+      "MSG_0282",
+      "MSG_0316",
+      "MSG_0359",
+      "MSG_0413",
+      "MSG_0445",
+      "MSG_0579",
+      "MSG_0630",
+      "MSG_0831",
+      "MSG_0837",
+      "MSG_0968"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_037",
+      "EVNT_067",
+      "EVNT_072",
+      "EVNT_083",
+      "EVNT_092",
+      "EVNT_100",
+      "EVNT_129",
+      "EVNT_144",
+      "EVNT_182",
+      "EVNT_183",
+      "EVNT_224"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "rescheduled",
+    "latest_deadline": "2026-10-04",
+    "confidence": 0.85
+  },
+  {
+    "group_id": "GROUP_065",
+    "title": "Can you help? Send the expense receipt i...",
+    "related_message_ids": [
+      "MSG_0119",
+      "MSG_0219",
+      "MSG_0358",
+      "MSG_0473",
+      "MSG_0485",
+      "MSG_0531",
+      "MSG_0722",
+      "MSG_0776",
+      "MSG_0815",
+      "MSG_0870",
+      "MSG_0981"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_044",
+      "TASK_079",
+      "TASK_125",
+      "TASK_174",
+      "TASK_181",
+      "TASK_199",
+      "TASK_273",
+      "TASK_290",
+      "TASK_302",
+      "TASK_320",
+      "TASK_381"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-10-01",
+    "confidence": 0.79
+  },
+  {
+    "group_id": "GROUP_066",
+    "title": "Can you help? You can contact me on ****...",
+    "related_message_ids": [
+      "MSG_0126",
+      "MSG_0191",
+      "MSG_0337",
+      "MSG_0411",
+      "MSG_0550",
+      "MSG_0636",
+      "MSG_0641",
+      "MSG_0695",
+      "MSG_0804"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.78
+  },
+  {
+    "group_id": "GROUP_067",
+    "title": "Important: Let us meet sometime next wee...",
+    "related_message_ids": [
+      "MSG_0133",
+      "MSG_0207",
+      "MSG_0278",
+      "MSG_0350",
+      "MSG_0354",
+      "MSG_0444",
+      "MSG_0502",
+      "MSG_0526",
+      "MSG_0770",
+      "MSG_0801"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_036",
+      "EVNT_053",
+      "EVNT_066",
+      "EVNT_079",
+      "EVNT_080",
+      "EVNT_099",
+      "EVNT_114",
+      "EVNT_122",
+      "EVNT_167",
+      "EVNT_177"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-21",
+    "confidence": 0.87
+  },
+  {
+    "group_id": "GROUP_068",
+    "title": "Hi, Remember that my T-shirt size is med...",
+    "related_message_ids": [
+      "MSG_0134",
+      "MSG_0183",
+      "MSG_0305",
+      "MSG_0326",
+      "MSG_0374",
+      "MSG_0540",
+      "MSG_0756",
+      "MSG_0855",
+      "MSG_0874",
+      "MSG_0892"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.93
+  },
+  {
+    "group_id": "GROUP_069",
+    "title": "For today: Just so you know, i use dark...",
+    "related_message_ids": [
+      "MSG_0143",
+      "MSG_0196",
+      "MSG_0211",
+      "MSG_0297",
+      "MSG_0332",
+      "MSG_0395",
+      "MSG_0476",
+      "MSG_0750",
+      "MSG_0769",
+      "MSG_0836"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_140",
+      "TASK_282"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.82
+  },
+  {
+    "group_id": "GROUP_070",
+    "title": "Hi, The report may be needed tomorrow....",
+    "related_message_ids": [
+      "MSG_0152",
+      "MSG_0227",
+      "MSG_0235",
+      "MSG_0240",
+      "MSG_0523",
+      "MSG_0525",
+      "MSG_0696",
+      "MSG_0768",
+      "MSG_0875",
+      "MSG_0888",
+      "MSG_1056",
+      "MSG_1061"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_041",
+      "EVNT_058",
+      "TASK_087",
+      "EVNT_060",
+      "EVNT_121",
+      "TASK_267",
+      "TASK_287",
+      "EVNT_197",
+      "TASK_327",
+      "EVNT_233",
+      "TASK_439"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "completed",
+    "latest_deadline": "2026-09-25",
+    "confidence": 0.74
+  },
+  {
+    "group_id": "GROUP_071",
+    "title": "Just checking\u2014I need you to verify the d...",
+    "related_message_ids": [
+      "MSG_0157",
+      "MSG_0226",
+      "MSG_0360",
+      "MSG_0417",
+      "MSG_0455",
+      "MSG_0483",
+      "MSG_0517",
+      "MSG_0607",
+      "MSG_0612",
+      "MSG_0658",
+      "MSG_0984"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_055",
+      "TASK_084",
+      "TASK_126",
+      "TASK_151",
+      "TASK_166",
+      "TASK_180",
+      "TASK_195",
+      "TASK_228",
+      "TASK_229",
+      "TASK_250",
+      "TASK_384"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-28",
+    "confidence": 0.91
+  },
+  {
+    "group_id": "GROUP_072",
+    "title": "Important: Please submit the weekly repo...",
+    "related_message_ids": [
+      "MSG_0160",
+      "MSG_0208",
+      "MSG_0369",
+      "MSG_0379",
+      "MSG_0530",
+      "MSG_0547",
+      "MSG_0552",
+      "MSG_0639",
+      "MSG_0730",
+      "MSG_0824",
+      "MSG_0978"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_056",
+      "TASK_074",
+      "TASK_131",
+      "TASK_134",
+      "TASK_198",
+      "TASK_207",
+      "TASK_209",
+      "TASK_241",
+      "TASK_276",
+      "TASK_306",
+      "TASK_379"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-28",
+    "confidence": 0.82
+  },
+  {
+    "group_id": "GROUP_073",
+    "title": "Just checking\u2014The support team changed i...",
+    "related_message_ids": [
+      "MSG_0164",
+      "MSG_0263",
+      "MSG_0291",
+      "MSG_0399",
+      "MSG_0400",
+      "MSG_0474",
+      "MSG_0564",
+      "MSG_0598",
+      "MSG_0820",
+      "MSG_0863"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_058",
+      "TASK_102",
+      "TASK_143",
+      "TASK_144",
+      "TASK_175",
+      "TASK_216",
+      "TASK_225",
+      "TASK_304",
+      "TASK_317"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-16",
+    "confidence": 0.93
+  },
+  {
+    "group_id": "GROUP_074",
+    "title": "FYI: Share the meeting notes is due on 2...",
+    "related_message_ids": [
+      "MSG_0170",
+      "MSG_0280",
+      "MSG_0556",
+      "MSG_0566",
+      "MSG_0652",
+      "MSG_0716",
+      "MSG_0720",
+      "MSG_0787",
+      "MSG_0795",
+      "MSG_0819",
+      "MSG_0971",
+      "MSG_0992",
+      "MSG_1007"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_047",
+      "TASK_098",
+      "EVNT_124",
+      "EVNT_128",
+      "TASK_246",
+      "EVNT_159",
+      "EVNT_161",
+      "TASK_295",
+      "EVNT_173",
+      "TASK_303",
+      "TASK_372",
+      "EVNT_227",
+      "TASK_405"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-27",
+    "confidence": 0.81
+  },
+  {
+    "group_id": "GROUP_075",
+    "title": "Can you help? Calendar update: placement...",
+    "related_message_ids": [
+      "MSG_0184",
+      "MSG_0590",
+      "MSG_0789",
+      "MSG_0823",
+      "MSG_0966",
+      "MSG_0970"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_048",
+      "EVNT_133",
+      "EVNT_170",
+      "TASK_305",
+      "EVNT_222",
+      "EVNT_226"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "rescheduled",
+    "latest_deadline": "2026-10-06",
+    "confidence": 0.8
+  },
+  {
+    "group_id": "GROUP_076",
+    "title": "Just checking\u2014Book movie tickets today a...",
+    "related_message_ids": [
+      "MSG_0202",
+      "MSG_0362",
+      "MSG_0364",
+      "MSG_0375",
+      "MSG_0409",
+      "MSG_0499",
+      "MSG_0586",
+      "MSG_0594",
+      "MSG_0599",
+      "MSG_0758"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.95
+  },
+  {
+    "group_id": "GROUP_077",
+    "title": "FYI: Personal note: i usually study afte...",
+    "related_message_ids": [
+      "MSG_0204",
+      "MSG_0250",
+      "MSG_0272",
+      "MSG_0321",
+      "MSG_0355",
+      "MSG_0441",
+      "MSG_0611",
+      "MSG_0632",
+      "MSG_0648",
+      "MSG_0876"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.89
+  },
+  {
+    "group_id": "GROUP_078",
+    "title": "Hi, Your food-delivery coupon expires to...",
+    "related_message_ids": [
+      "MSG_0206",
+      "MSG_0234",
+      "MSG_0447",
+      "MSG_0454",
+      "MSG_0548",
+      "MSG_0650",
+      "MSG_0699",
+      "MSG_0805",
+      "MSG_0807",
+      "MSG_0842"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_298"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-21",
+    "confidence": 0.96
+  },
+  {
+    "group_id": "GROUP_079",
+    "title": "Can you help? My identification number i...",
+    "related_message_ids": [
+      "MSG_0229",
+      "MSG_0264",
+      "MSG_0347",
+      "MSG_0349",
+      "MSG_0496",
+      "MSG_0576",
+      "MSG_0726",
+      "MSG_0763"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.87
+  },
+  {
+    "group_id": "GROUP_080",
+    "title": "Can you help? You may like our new stude...",
+    "related_message_ids": [
+      "MSG_0230",
+      "MSG_0236",
+      "MSG_0262",
+      "MSG_0343",
+      "MSG_0466",
+      "MSG_0521",
+      "MSG_0742",
+      "MSG_0785",
+      "MSG_0786",
+      "MSG_0889"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_081",
+    "title": "FYI: Earn reward points on your next pur...",
+    "related_message_ids": [
+      "MSG_0242",
+      "MSG_0281",
+      "MSG_0298",
+      "MSG_0299",
+      "MSG_0341",
+      "MSG_0373",
+      "MSG_0627",
+      "MSG_0808",
+      "MSG_0818",
+      "MSG_0828"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_122"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.92
+  },
+  {
+    "group_id": "GROUP_082",
+    "title": "Just checking\u2014Your OTP is ******. It exp...",
+    "related_message_ids": [
+      "MSG_0243",
+      "MSG_0273",
+      "MSG_0288",
+      "MSG_0595",
+      "MSG_0596",
+      "MSG_0604",
+      "MSG_0791",
+      "MSG_0834",
+      "MSG_0854",
+      "MSG_0880",
+      "MSG_1036",
+      "MSG_1046"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.87
+  },
+  {
+    "group_id": "GROUP_083",
+    "title": "Quick update: I need you to back up the...",
+    "related_message_ids": [
+      "MSG_0252",
+      "MSG_0312",
+      "MSG_0334",
+      "MSG_0340",
+      "MSG_0401",
+      "MSG_0615",
+      "MSG_0657",
+      "MSG_0659",
+      "MSG_0864",
+      "MSG_0865",
+      "MSG_0989",
+      "MSG_1001",
+      "MSG_1005"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_090",
+      "TASK_110",
+      "TASK_118",
+      "TASK_121",
+      "TASK_145",
+      "TASK_231",
+      "TASK_249",
+      "TASK_251",
+      "TASK_318",
+      "TASK_319",
+      "TASK_389",
+      "TASK_399",
+      "TASK_403"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-27",
+    "confidence": 0.78
+  },
+  {
+    "group_id": "GROUP_084",
+    "title": "For today: Please note my bank account n...",
+    "related_message_ids": [
+      "MSG_0254",
+      "MSG_0257",
+      "MSG_0267",
+      "MSG_0352",
+      "MSG_0397",
+      "MSG_0642",
+      "MSG_0751",
+      "MSG_0752",
+      "MSG_0848",
+      "MSG_0890"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.9
+  },
+  {
+    "group_id": "GROUP_085",
+    "title": "For today: Are you available for the des...",
+    "related_message_ids": [
+      "MSG_0271",
+      "MSG_0293",
+      "MSG_0363",
+      "MSG_0414",
+      "MSG_0565",
+      "MSG_0616",
+      "MSG_0800",
+      "MSG_0810",
+      "MSG_0849",
+      "MSG_0894"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_065",
+      "EVNT_068",
+      "EVNT_084",
+      "EVNT_093",
+      "EVNT_127",
+      "EVNT_139",
+      "EVNT_176",
+      "EVNT_178",
+      "EVNT_189",
+      "EVNT_202"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-20",
+    "confidence": 0.89
+  },
+  {
+    "group_id": "GROUP_086",
+    "title": "Quick update: Free delivery on orders ab...",
+    "related_message_ids": [
+      "MSG_0276",
+      "MSG_0295",
+      "MSG_0318",
+      "MSG_0390",
+      "MSG_0529",
+      "MSG_0534",
+      "MSG_0573",
+      "MSG_0661",
+      "MSG_0702",
+      "MSG_0817"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.92
+  },
+  {
+    "group_id": "GROUP_087",
+    "title": "Could you send it soon?...",
+    "related_message_ids": [
+      "MSG_0310",
+      "MSG_0323",
+      "MSG_0386",
+      "MSG_0393",
+      "MSG_0486",
+      "MSG_0492",
+      "MSG_0505",
+      "MSG_0654",
+      "MSG_0775",
+      "MSG_0859"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_109",
+      "TASK_114",
+      "TASK_138",
+      "TASK_182",
+      "TASK_183",
+      "TASK_188",
+      "TASK_247",
+      "TASK_289",
+      "TASK_315"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-14",
+    "confidence": 0.9
+  },
+  {
+    "group_id": "GROUP_088",
+    "title": "For today: Are you available for the col...",
+    "related_message_ids": [
+      "MSG_0327",
+      "MSG_0384",
+      "MSG_0450",
+      "MSG_0519",
+      "MSG_0600",
+      "MSG_0798",
+      "MSG_0860",
+      "MSG_0877",
+      "MSG_0882",
+      "MSG_0900"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_074",
+      "EVNT_089",
+      "EVNT_101",
+      "EVNT_118",
+      "EVNT_135",
+      "EVNT_175",
+      "EVNT_191",
+      "EVNT_198",
+      "EVNT_200",
+      "EVNT_204"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-09-20",
+    "confidence": 0.93
+  },
+  {
+    "group_id": "GROUP_089",
+    "title": "Can you help? Prepare the demo video is...",
+    "related_message_ids": [
+      "MSG_0513",
+      "MSG_0561",
+      "MSG_0690",
+      "MSG_0850",
+      "MSG_0851",
+      "MSG_0937",
+      "MSG_0941",
+      "MSG_0945",
+      "MSG_0977"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_192",
+      "TASK_215",
+      "TASK_263",
+      "TASK_312",
+      "TASK_313",
+      "TASK_360",
+      "TASK_364",
+      "TASK_368",
+      "TASK_378"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "completed",
+    "latest_deadline": "2026-09-27",
+    "confidence": 0.74
+  },
+  {
+    "group_id": "GROUP_092",
+    "title": "Following up on reply to the client emai...",
+    "related_message_ids": [
+      "MSG_0902",
+      "MSG_0922",
+      "MSG_0994",
+      "MSG_1009"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_330",
+      "TASK_348",
+      "TASK_393",
+      "TASK_407"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "completed",
+    "latest_deadline": null,
+    "confidence": 0.84
+  },
+  {
+    "group_id": "GROUP_093",
+    "title": "Please confirm whether you started to pa...",
+    "related_message_ids": [
+      "MSG_0903"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_331"
+    ],
+    "summary": "A single isolated request or statement.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.99
+  },
+  {
+    "group_id": "GROUP_094",
+    "title": "Following up on review the model results...",
+    "related_message_ids": [
+      "MSG_0905",
+      "MSG_0925",
+      "MSG_0935",
+      "MSG_0973",
+      "DEMO_005"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_333",
+      "TASK_351",
+      "TASK_359",
+      "TASK_374",
+      "TASK_453"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "completed",
+    "latest_deadline": "2026-09-29",
+    "confidence": 0.73
+  },
+  {
+    "group_id": "GROUP_095",
+    "title": "Can you share an update on email the sig...",
+    "related_message_ids": [
+      "MSG_0907",
+      "MSG_1000",
+      "MSG_1015"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_335",
+      "TASK_398",
+      "TASK_413"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.82
+  },
+  {
+    "group_id": "GROUP_096",
+    "title": "Please confirm whether you started to up...",
+    "related_message_ids": [
+      "MSG_0909",
+      "MSG_0929"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_337",
+      "TASK_355"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.83
+  },
+  {
+    "group_id": "GROUP_097",
+    "title": "Can you share an update on complete the...",
+    "related_message_ids": [
+      "MSG_0910",
+      "MSG_0913",
+      "MSG_0916",
+      "MSG_0930",
+      "MSG_1004",
+      "DEMO_021"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_338",
+      "TASK_341",
+      "TASK_343",
+      "TASK_356",
+      "TASK_402"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "completed",
+    "latest_deadline": null,
+    "confidence": 0.74
+  },
+  {
+    "group_id": "GROUP_098",
+    "title": "Following up on call the service centre;...",
+    "related_message_ids": [
+      "MSG_0914",
+      "MSG_0939",
+      "MSG_0943",
+      "MSG_0993",
+      "MSG_1008"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_342",
+      "TASK_362",
+      "TASK_366",
+      "TASK_392",
+      "TASK_406"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "completed",
+    "latest_deadline": null,
+    "confidence": 0.73
+  },
+  {
+    "group_id": "GROUP_099",
+    "title": "Following up on pay the electricity bill...",
+    "related_message_ids": [
+      "MSG_0923"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_349"
+    ],
+    "summary": "A single isolated request or statement.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.99
+  },
+  {
+    "group_id": "GROUP_100",
+    "title": "Following up on confirm the interview sl...",
+    "related_message_ids": [
+      "MSG_0926",
+      "MSG_1002",
+      "DEMO_001",
+      "DEMO_016"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_352",
+      "TASK_400",
+      "TASK_449",
+      "TASK_457"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "completed",
+    "latest_deadline": "2026-10-05",
+    "confidence": 0.82
+  },
+  {
+    "group_id": "GROUP_101",
+    "title": "Update: finish the test cases has been c...",
+    "related_message_ids": [
+      "MSG_0931",
+      "MSG_0947",
+      "MSG_0995",
+      "MSG_1010"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_357",
+      "TASK_369",
+      "TASK_394",
+      "TASK_408"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "completed",
+    "latest_deadline": null,
+    "confidence": 0.8
+  },
+  {
+    "group_id": "GROUP_102",
+    "title": "You can cancel call the service centre;...",
+    "related_message_ids": [
+      "MSG_0932",
+      "MSG_0946",
+      "MSG_0950"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "cancelled",
+    "latest_deadline": null,
+    "confidence": 0.97
+  },
+  {
+    "group_id": "GROUP_103",
+    "title": "You can cancel send the revised presenta...",
+    "related_message_ids": [
+      "MSG_0934",
+      "MSG_0936"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_205",
+      "EVNT_206"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "cancelled",
+    "latest_deadline": null,
+    "confidence": 0.99
+  },
+  {
+    "group_id": "GROUP_104",
+    "title": "You can cancel complete the Python exerc...",
+    "related_message_ids": [
+      "MSG_0938",
+      "MSG_0944",
+      "MSG_0987"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_361",
+      "TASK_367",
+      "TASK_387"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "cancelled",
+    "latest_deadline": "2026-10-01",
+    "confidence": 0.83
+  },
+  {
+    "group_id": "GROUP_105",
+    "title": "You can cancel send the expense receipt;...",
+    "related_message_ids": [
+      "MSG_0940"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_363"
+    ],
+    "summary": "A single isolated request or statement.",
+    "status": "cancelled",
+    "latest_deadline": null,
+    "confidence": 0.99
+  },
+  {
+    "group_id": "GROUP_106",
+    "title": "You can cancel verify the dataset labels...",
+    "related_message_ids": [
+      "MSG_0948"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_370"
+    ],
+    "summary": "A single isolated request or statement.",
+    "status": "cancelled",
+    "latest_deadline": null,
+    "confidence": 0.99
+  },
+  {
+    "group_id": "GROUP_107",
+    "title": "Update: submit the weekly report has bee...",
+    "related_message_ids": [
+      "MSG_0949"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_371"
+    ],
+    "summary": "A single isolated request or statement.",
+    "status": "completed",
+    "latest_deadline": null,
+    "confidence": 0.99
+  },
+  {
+    "group_id": "GROUP_108",
+    "title": "Any progress on the item concerning the...",
+    "related_message_ids": [
+      "MSG_0991",
+      "MSG_1006",
+      "DEMO_004"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_391",
+      "TASK_404",
+      "TASK_452"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.84
+  },
+  {
+    "group_id": "GROUP_109",
+    "title": "The work we discussed about the model re...",
+    "related_message_ids": [
+      "MSG_0998",
+      "MSG_1003",
+      "MSG_1013"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_397",
+      "TASK_401",
+      "TASK_411"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "pending",
+    "latest_deadline": null,
+    "confidence": 0.88
+  },
+  {
+    "group_id": "GROUP_110",
+    "title": "Follow-up: has the the revised presentat...",
+    "related_message_ids": [
+      "MSG_1014"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_412"
+    ],
+    "summary": "A single isolated request or statement.",
+    "status": "completed",
+    "latest_deadline": null,
+    "confidence": 0.99
+  },
+  {
+    "group_id": "GROUP_111",
+    "title": "A new prepare the offline inference demo...",
+    "related_message_ids": [
+      "MSG_1016",
+      "MSG_1024",
+      "MSG_1026"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_414",
+      "EVNT_230",
+      "TASK_422"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "pending",
+    "latest_deadline": "2026-10-08",
+    "confidence": 0.75
+  },
+  {
+    "group_id": "GROUP_112",
+    "title": "New task: compare two embedding models b...",
+    "related_message_ids": [
+      "MSG_1017",
+      "MSG_1027"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_415",
+      "TASK_423"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "pending",
+    "latest_deadline": "2026-10-01",
+    "confidence": 0.99
+  },
+  {
+    "group_id": "GROUP_113",
+    "title": "New task: document privacy-routing decis...",
+    "related_message_ids": [
+      "MSG_1018",
+      "MSG_1028"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_416",
+      "EVNT_231"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "pending",
+    "latest_deadline": "2026-10-02",
+    "confidence": 0.89
+  },
+  {
+    "group_id": "GROUP_114",
+    "title": "New task: create a latency chart by 2026...",
+    "related_message_ids": [
+      "MSG_1019",
+      "MSG_1029"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_417",
+      "TASK_424"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "pending",
+    "latest_deadline": "2026-10-03",
+    "confidence": 0.99
+  },
+  {
+    "group_id": "GROUP_115",
+    "title": "A new review the quantization results se...",
+    "related_message_ids": [
+      "MSG_1020",
+      "MSG_1030"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_229",
+      "TASK_425"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "pending",
+    "latest_deadline": "2026-10-04",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_116",
+    "title": "New task: test the assistant without int...",
+    "related_message_ids": [
+      "MSG_1021",
+      "MSG_1031",
+      "DEMO_010"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_418",
+      "TASK_426",
+      "TASK_455"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "pending",
+    "latest_deadline": "2026-10-09",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_117",
+    "title": "New task: update the architecture diagra...",
+    "related_message_ids": [
+      "MSG_1022",
+      "MSG_1032"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_419",
+      "EVNT_232"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-10-06",
+    "confidence": 0.87
+  },
+  {
+    "group_id": "GROUP_118",
+    "title": "New task: measure memory usage by 2026-1...",
+    "related_message_ids": [
+      "MSG_1023",
+      "MSG_1033"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_420",
+      "TASK_427"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "pending",
+    "latest_deadline": "2026-10-07",
+    "confidence": 0.98
+  },
+  {
+    "group_id": "GROUP_119",
+    "title": "New task: validate the mandatory queries...",
+    "related_message_ids": [
+      "MSG_1025",
+      "MSG_1035"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_421",
+      "TASK_429"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "pending",
+    "latest_deadline": "2026-10-09",
+    "confidence": 0.98
+  },
+  {
+    "group_id": "GROUP_120",
+    "title": "New task: prepare the L2 presentation by...",
+    "related_message_ids": [
+      "MSG_1034"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_428"
+    ],
+    "summary": "A single isolated request or statement.",
+    "status": "pending",
+    "latest_deadline": "2026-10-08",
+    "confidence": 0.99
+  },
+  {
+    "group_id": "GROUP_121",
+    "title": "Use access token tok_l2_demo_7QX91 for t...",
+    "related_message_ids": [
+      "MSG_1037",
+      "MSG_1047",
+      "DEMO_024"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_430",
+      "TASK_433",
+      "TASK_461"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "pending",
+    "latest_deadline": null,
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_122",
+    "title": "Please deliver it to 17 River Park Stree...",
+    "related_message_ids": [
+      "MSG_1039",
+      "MSG_1049",
+      "DEMO_014"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_431",
+      "TASK_434",
+      "TASK_456"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "pending",
+    "latest_deadline": null,
+    "confidence": 0.82
+  },
+  {
+    "group_id": "GROUP_123",
+    "title": "Call me on ****** after the meeting....",
+    "related_message_ids": [
+      "MSG_1040",
+      "MSG_1050"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "pending",
+    "latest_deadline": null,
+    "confidence": 0.91
+  },
+  {
+    "group_id": "GROUP_124",
+    "title": "My private medical note mentions a thyro...",
+    "related_message_ids": [
+      "MSG_1041",
+      "MSG_1051"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "pending",
+    "latest_deadline": null,
+    "confidence": 0.94
+  },
+  {
+    "group_id": "GROUP_125",
+    "title": "The temporary password ****** L2Demo#884...",
+    "related_message_ids": [
+      "MSG_1042",
+      "MSG_1052"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "pending",
+    "latest_deadline": null,
+    "confidence": 0.98
+  },
+  {
+    "group_id": "GROUP_126",
+    "title": "My fictional ID number is ID-L2-77391....",
+    "related_message_ids": [
+      "MSG_1043",
+      "MSG_1053"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "pending",
+    "latest_deadline": null,
+    "confidence": 0.98
+  },
+  {
+    "group_id": "GROUP_127",
+    "title": "The sample bank account is ******....",
+    "related_message_ids": [
+      "MSG_1044",
+      "MSG_1054"
+    ],
+    "related_task_or_event_ids": [],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "pending",
+    "latest_deadline": null,
+    "confidence": 0.94
+  },
+  {
+    "group_id": "GROUP_128",
+    "title": "Save recovery code REC-L2-88-KQ....",
+    "related_message_ids": [
+      "MSG_1045",
+      "MSG_1055"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_432",
+      "TASK_435"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "pending",
+    "latest_deadline": null,
+    "confidence": 0.98
+  },
+  {
+    "group_id": "GROUP_130",
+    "title": "We may move the meeting, I will confirm...",
+    "related_message_ids": [
+      "MSG_1057",
+      "MSG_1062",
+      "MSG_1067"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_234",
+      "EVNT_235",
+      "EVNT_236"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.94
+  },
+  {
+    "group_id": "GROUP_131",
+    "title": "Maya said someone probably handled the t...",
+    "related_message_ids": [
+      "MSG_1059",
+      "MSG_1064",
+      "MSG_1069"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_437",
+      "TASK_441",
+      "TASK_445"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "completed",
+    "latest_deadline": null,
+    "confidence": 0.93
+  },
+  {
+    "group_id": "GROUP_132",
+    "title": "This may no longer be urgent....",
+    "related_message_ids": [
+      "MSG_1060",
+      "MSG_1065",
+      "MSG_1070"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_438",
+      "TASK_442"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.88
+  },
+  {
+    "group_id": "GROUP_133",
+    "title": "Additional update: the deadline could be...",
+    "related_message_ids": [
+      "MSG_1068",
+      "DEMO_023"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_444",
+      "TASK_460"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "in progress",
+    "latest_deadline": "2026-10-03",
+    "confidence": 0.93
+  },
+  {
+    "group_id": "GROUP_134",
+    "title": "The office cafeteria menu has been updat...",
+    "related_message_ids": [
+      "MSG_1071"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_446"
+    ],
+    "summary": "A single isolated request or statement.",
+    "status": "in progress",
+    "latest_deadline": null,
+    "confidence": 0.99
+  },
+  {
+    "group_id": "GROUP_135",
+    "title": "A new wallpaper is available in the empl...",
+    "related_message_ids": [
+      "MSG_1072"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_237"
+    ],
+    "summary": "A single isolated request or statement.",
+    "status": "pending",
+    "latest_deadline": null,
+    "confidence": 0.99
+  },
+  {
+    "group_id": "GROUP_136",
+    "title": "The weekend newsletter is ready....",
+    "related_message_ids": [
+      "MSG_1073",
+      "DEMO_018"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_245"
+    ],
+    "summary": "Multiple messages discussing a request, tracking updates, or modifying constraints.",
+    "status": "pending",
+    "latest_deadline": null,
+    "confidence": 0.82
+  },
+  {
+    "group_id": "GROUP_137",
+    "title": "The training room lights were replaced....",
+    "related_message_ids": [
+      "MSG_1074"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_447"
+    ],
+    "summary": "A single isolated request or statement.",
+    "status": "pending",
+    "latest_deadline": null,
+    "confidence": 0.99
+  },
+  {
+    "group_id": "GROUP_139",
+    "title": "The lobby display will restart tonight....",
+    "related_message_ids": [
+      "MSG_1076"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_238"
+    ],
+    "summary": "A single isolated request or statement.",
+    "status": "pending",
+    "latest_deadline": "2026-10-02",
+    "confidence": 0.99
+  },
+  {
+    "group_id": "GROUP_140",
+    "title": "The office plants were moved upstairs....",
+    "related_message_ids": [
+      "MSG_1078"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_448"
+    ],
+    "summary": "A single isolated request or statement.",
+    "status": "rescheduled",
+    "latest_deadline": null,
+    "confidence": 0.99
+  },
+  {
+    "group_id": "GROUP_142",
+    "title": "The monthly bulletin has been published....",
+    "related_message_ids": [
+      "MSG_1080"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_239"
+    ],
+    "summary": "A single isolated request or statement.",
+    "status": "pending",
+    "latest_deadline": null,
+    "confidence": 0.99
+  },
+  {
+    "group_id": "GROUP_143",
+    "title": "The team stand-up has been cancelled....",
+    "related_message_ids": [
+      "DEMO_008"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_241"
+    ],
+    "summary": "A single isolated request or statement.",
+    "status": "cancelled",
+    "latest_deadline": null,
+    "confidence": 0.99
+  },
+  {
+    "group_id": "GROUP_144",
+    "title": "A new latency-review meeting is schedule...",
+    "related_message_ids": [
+      "DEMO_011"
+    ],
+    "related_task_or_event_ids": [
+      "EVNT_243"
+    ],
+    "summary": "A single isolated request or statement.",
+    "status": "pending",
+    "latest_deadline": "2026-10-08",
+    "confidence": 0.99
+  },
+  {
+    "group_id": "GROUP_148",
+    "title": "Was the compliance form approved by the...",
+    "related_message_ids": [
+      "DEMO_022"
+    ],
+    "related_task_or_event_ids": [
+      "TASK_459"
+    ],
+    "summary": "A single isolated request or statement.",
+    "status": "pending",
+    "latest_deadline": null,
+    "confidence": 0.99
+  }
+]

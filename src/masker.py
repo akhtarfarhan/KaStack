@@ -88,7 +88,7 @@ class PrivacyMasker:
 
 if __name__ == "__main__":
     # Paths
-    INPUT_CSV = r"C:\Users\farha\Desktop\KaStack\project_root\data\messages.csv"
+    INPUT_CSV = r"C:\Users\farha\Desktop\KaStack\project_root\data\combined_messages.csv"
     MASKED_CSV = r"C:\Users\farha\Desktop\KaStack\project_root\outputs\masked_messages.csv"
     REPORT_JSON = r"C:\Users\farha\Desktop\KaStack\project_root\outputs\sensitive_report.json"
     

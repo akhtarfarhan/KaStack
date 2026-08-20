@@ -1,0 +1,115 @@
+[
+  {
+    "query": "Which existing task became critical in the demo data?",
+    "answer": "There are 502 tasks currently marked as critical priority.",
+    "supporting_message_ids": [
+      "MSG_0001",
+      "MSG_0003",
+      "MSG_0004",
+      "MSG_0006",
+      "MSG_0007"
+    ],
+    "group_id": null,
+    "reason": "Filtered the Priority Engine output for 'critical' items."
+  },
+  {
+    "query": "Which tasks or meetings were completed or cancelled?",
+    "answer": "Found 21 tasks/meetings that have been completed or cancelled.",
+    "supporting_message_ids": [
+      "MSG_0028",
+      "MSG_0046",
+      "MSG_0065",
+      "MSG_0101",
+      "MSG_0309",
+      "MSG_0368",
+      "MSG_0394",
+      "MSG_0605",
+      "MSG_0799",
+      "MSG_0829",
+      "MSG_0862",
+      "MSG_0918",
+      "MSG_0927",
+      "MSG_0933",
+      "MSG_1058",
+      "MSG_1063",
+      "DEMO_002"
+    ],
+    "group_id": "GROUP_028",
+    "reason": "Group status evaluates to completed based on chronological follow-up messages."
+  },
+  {
+    "query": "Which meeting was rescheduled and what is its latest schedule?",
+    "answer": "A meeting was rescheduled. The latest identified deadline/time is 2026-10-06.",
+    "supporting_message_ids": [
+      "MSG_0001",
+      "MSG_0043",
+      "MSG_0123",
+      "MSG_0275",
+      "MSG_0435",
+      "MSG_0479",
+      "MSG_0603",
+      "MSG_0646",
+      "MSG_0697",
+      "MSG_0797",
+      "MSG_0845",
+      "MSG_0951",
+      "MSG_0958"
+    ],
+    "group_id": "GROUP_001",
+    "reason": "Group status updated to 'rescheduled' based on follow-up updates."
+  },
+  {
+    "query": "Which messages contain conflicting or uncertain deadlines?",
+    "answer": "Based on semantic search, this relates to group: 'Additional update: the deadline could be...'. The current status is in progress.",
+    "supporting_message_ids": [
+      "MSG_1068",
+      "DEMO_023"
+    ],
+    "group_id": "GROUP_133",
+    "reason": "Semantic search matched this group with a relevance score of 0.72."
+  },
+  {
+    "query": "Which demo messages must be blocked from external processing?",
+    "answer": "Found 2 demo messages that must be blocked from external processing due to highly sensitive data.",
+    "supporting_message_ids": [
+      "DEMO_013",
+      "DEMO_012"
+    ],
+    "group_id": null,
+    "reason": "Messages contain sensitive entities marked with 'do_not_store' or 'do_not_send' by the Privacy Firewall."
+  },
+  {
+    "query": "Which message requires confirmation before processing?",
+    "answer": "These messages require human confirmation before processing due to medium-risk sensitive data (e.g., addresses or phone numbers).",
+    "supporting_message_ids": [
+      "MSG_0126",
+      "MSG_0191",
+      "MSG_0337",
+      "MSG_0411",
+      "MSG_0550"
+    ],
+    "group_id": null,
+    "reason": "Privacy engine flagged these items with 'ask_for_confirmation'."
+  },
+  {
+    "query": "What is the latest status of the task referenced by DEMO_016?",
+    "answer": "The latest status of the item referenced by DEMO_016 is: COMPLETED.",
+    "supporting_message_ids": [
+      "MSG_0926",
+      "MSG_1002",
+      "DEMO_001",
+      "DEMO_016"
+    ],
+    "group_id": "GROUP_100",
+    "reason": "Message DEMO_016 belongs to this group, which tracks the chronological status."
+  },
+  {
+    "query": "Was the compliance form approved by the finance director?",
+    "answer": "Based on semantic search, this relates to group: 'Was the compliance form approved by the...'. The current status is pending.",
+    "supporting_message_ids": [
+      "DEMO_022"
+    ],
+    "group_id": "GROUP_148",
+    "reason": "Semantic search matched this group with a relevance score of 0.74."
+  }
+]

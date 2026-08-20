@@ -135,7 +135,7 @@ class InformationExtractor:
 
 if __name__ == "__main__":
     # Paths
-    RAW_CSV = r"C:\Users\farha\Desktop\KaStack\project_root\data\messages.csv"
+    RAW_CSV = r"C:\Users\farha\Desktop\KaStack\project_root\data\combined_messages.csv"
     CLASS_JSON = r"C:\Users\farha\Desktop\KaStack\project_root\outputs\classification_report.json"
     OUTPUT_JSON = r"C:\Users\farha\Desktop\KaStack\project_root\outputs\extraction_report.json"
     

@@ -5398,5 +5398,1229 @@
     "category": "meeting_or_event",
     "confidence": 0.68,
     "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0901",
+    "category": "personal_information",
+    "confidence": 0.78,
+    "reason": "The message contains user-specific preferences, identity markers, or internal profiles."
+  },
+  {
+    "message_id": "MSG_0902",
+    "category": "action_required",
+    "confidence": 0.78,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0903",
+    "category": "action_required",
+    "confidence": 0.76,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0904",
+    "category": "action_required",
+    "confidence": 0.37,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0905",
+    "category": "action_required",
+    "confidence": 0.62,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0906",
+    "category": "action_required",
+    "confidence": 0.68,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0907",
+    "category": "action_required",
+    "confidence": 0.5,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0908",
+    "category": "action_required",
+    "confidence": 0.8,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0909",
+    "category": "action_required",
+    "confidence": 0.75,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0910",
+    "category": "action_required",
+    "confidence": 0.72,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0911",
+    "category": "action_required",
+    "confidence": 0.92,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0912",
+    "category": "action_required",
+    "confidence": 0.67,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0913",
+    "category": "action_required",
+    "confidence": 0.7,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0914",
+    "category": "action_required",
+    "confidence": 0.82,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0915",
+    "category": "personal_information",
+    "confidence": 0.59,
+    "reason": "The message contains user-specific preferences, identity markers, or internal profiles."
+  },
+  {
+    "message_id": "MSG_0916",
+    "category": "action_required",
+    "confidence": 0.67,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0917",
+    "category": "action_required",
+    "confidence": 0.63,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0918",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0919",
+    "category": "action_required",
+    "confidence": 0.47,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0920",
+    "category": "action_required",
+    "confidence": 0.86,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0921",
+    "category": "personal_information",
+    "confidence": 0.54,
+    "reason": "The message contains user-specific preferences, identity markers, or internal profiles."
+  },
+  {
+    "message_id": "MSG_0922",
+    "category": "action_required",
+    "confidence": 0.59,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0923",
+    "category": "action_required",
+    "confidence": 0.69,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0924",
+    "category": "action_required",
+    "confidence": 0.81,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0925",
+    "category": "action_required",
+    "confidence": 0.3,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0926",
+    "category": "action_required",
+    "confidence": 0.64,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0927",
+    "category": "action_required",
+    "confidence": 0.9,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0928",
+    "category": "action_required",
+    "confidence": 0.42,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0929",
+    "category": "action_required",
+    "confidence": 0.79,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0930",
+    "category": "action_required",
+    "confidence": 0.66,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0931",
+    "category": "action_required",
+    "confidence": 0.86,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0932",
+    "category": "personal_information",
+    "confidence": 0.29,
+    "reason": "The message contains user-specific preferences, identity markers, or internal profiles."
+  },
+  {
+    "message_id": "MSG_0933",
+    "category": "action_required",
+    "confidence": 0.69,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0934",
+    "category": "meeting_or_event",
+    "confidence": 0.32,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0935",
+    "category": "action_required",
+    "confidence": 0.55,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0936",
+    "category": "meeting_or_event",
+    "confidence": 0.34,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0937",
+    "category": "action_required",
+    "confidence": 0.63,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0938",
+    "category": "action_required",
+    "confidence": 0.36,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0939",
+    "category": "action_required",
+    "confidence": 0.74,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0940",
+    "category": "action_required",
+    "confidence": 0.25,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0941",
+    "category": "action_required",
+    "confidence": 0.8,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0942",
+    "category": "action_required",
+    "confidence": 0.34,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0943",
+    "category": "action_required",
+    "confidence": 0.78,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0944",
+    "category": "action_required",
+    "confidence": 0.32,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0945",
+    "category": "action_required",
+    "confidence": 0.57,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0946",
+    "category": "personal_information",
+    "confidence": 0.34,
+    "reason": "The message contains user-specific preferences, identity markers, or internal profiles."
+  },
+  {
+    "message_id": "MSG_0947",
+    "category": "action_required",
+    "confidence": 0.9,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0948",
+    "category": "action_required",
+    "confidence": 0.43,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0949",
+    "category": "action_required",
+    "confidence": 0.8,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0950",
+    "category": "personal_information",
+    "confidence": 0.34,
+    "reason": "The message contains user-specific preferences, identity markers, or internal profiles."
+  },
+  {
+    "message_id": "MSG_0951",
+    "category": "meeting_or_event",
+    "confidence": 0.5,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0952",
+    "category": "meeting_or_event",
+    "confidence": 0.55,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0953",
+    "category": "meeting_or_event",
+    "confidence": 0.48,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0954",
+    "category": "meeting_or_event",
+    "confidence": 0.62,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0955",
+    "category": "meeting_or_event",
+    "confidence": 0.46,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0956",
+    "category": "meeting_or_event",
+    "confidence": 0.61,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0957",
+    "category": "meeting_or_event",
+    "confidence": 0.63,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0958",
+    "category": "meeting_or_event",
+    "confidence": 0.53,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0959",
+    "category": "meeting_or_event",
+    "confidence": 0.59,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0960",
+    "category": "meeting_or_event",
+    "confidence": 0.5,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0961",
+    "category": "meeting_or_event",
+    "confidence": 0.64,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0962",
+    "category": "meeting_or_event",
+    "confidence": 0.59,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0963",
+    "category": "meeting_or_event",
+    "confidence": 0.5,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0964",
+    "category": "meeting_or_event",
+    "confidence": 0.59,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0965",
+    "category": "meeting_or_event",
+    "confidence": 0.59,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0966",
+    "category": "meeting_or_event",
+    "confidence": 0.55,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0967",
+    "category": "meeting_or_event",
+    "confidence": 0.37,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0968",
+    "category": "meeting_or_event",
+    "confidence": 0.62,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0969",
+    "category": "meeting_or_event",
+    "confidence": 0.58,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0970",
+    "category": "meeting_or_event",
+    "confidence": 0.55,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0971",
+    "category": "action_required",
+    "confidence": 0.63,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0972",
+    "category": "action_required",
+    "confidence": 0.56,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0973",
+    "category": "action_required",
+    "confidence": 0.87,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0974",
+    "category": "action_required",
+    "confidence": 0.58,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0975",
+    "category": "action_required",
+    "confidence": 0.9,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0976",
+    "category": "action_required",
+    "confidence": 0.56,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0977",
+    "category": "action_required",
+    "confidence": 0.89,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0978",
+    "category": "action_required",
+    "confidence": 0.84,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0979",
+    "category": "action_required",
+    "confidence": 0.87,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0980",
+    "category": "personal_information",
+    "confidence": 0.76,
+    "reason": "The message contains user-specific preferences, identity markers, or internal profiles."
+  },
+  {
+    "message_id": "MSG_0981",
+    "category": "action_required",
+    "confidence": 0.91,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0982",
+    "category": "action_required",
+    "confidence": 0.71,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0983",
+    "category": "action_required",
+    "confidence": 0.86,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0984",
+    "category": "action_required",
+    "confidence": 0.9,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0985",
+    "category": "action_required",
+    "confidence": 0.82,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0986",
+    "category": "action_required",
+    "confidence": 0.69,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0987",
+    "category": "action_required",
+    "confidence": 0.87,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0988",
+    "category": "action_required",
+    "confidence": 0.68,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0989",
+    "category": "action_required",
+    "confidence": 0.92,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0990",
+    "category": "action_required",
+    "confidence": 0.8,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0991",
+    "category": "action_required",
+    "confidence": 0.68,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0992",
+    "category": "meeting_or_event",
+    "confidence": 0.52,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_0993",
+    "category": "action_required",
+    "confidence": 0.94,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0994",
+    "category": "action_required",
+    "confidence": 0.84,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0995",
+    "category": "action_required",
+    "confidence": 0.73,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0996",
+    "category": "action_required",
+    "confidence": 0.75,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0997",
+    "category": "action_required",
+    "confidence": 0.62,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0998",
+    "category": "action_required",
+    "confidence": 0.83,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_0999",
+    "category": "meeting_or_event",
+    "confidence": 0.45,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_1000",
+    "category": "action_required",
+    "confidence": 0.68,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1001",
+    "category": "action_required",
+    "confidence": 0.75,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1002",
+    "category": "action_required",
+    "confidence": 0.55,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1003",
+    "category": "action_required",
+    "confidence": 0.71,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1004",
+    "category": "action_required",
+    "confidence": 0.79,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1005",
+    "category": "action_required",
+    "confidence": 0.81,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1006",
+    "category": "action_required",
+    "confidence": 0.7,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1007",
+    "category": "action_required",
+    "confidence": 0.55,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1008",
+    "category": "action_required",
+    "confidence": 0.92,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1009",
+    "category": "action_required",
+    "confidence": 0.89,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1010",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1011",
+    "category": "action_required",
+    "confidence": 0.83,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1012",
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1013",
+    "category": "action_required",
+    "confidence": 0.89,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1014",
+    "category": "action_required",
+    "confidence": 0.53,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1015",
+    "category": "action_required",
+    "confidence": 0.89,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1016",
+    "category": "action_required",
+    "confidence": 0.52,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1017",
+    "category": "action_required",
+    "confidence": 0.83,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1018",
+    "category": "action_required",
+    "confidence": 0.75,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1019",
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1020",
+    "category": "meeting_or_event",
+    "confidence": 0.65,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_1021",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1022",
+    "category": "action_required",
+    "confidence": 0.89,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1023",
+    "category": "action_required",
+    "confidence": 0.84,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1024",
+    "category": "meeting_or_event",
+    "confidence": 0.5,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_1025",
+    "category": "action_required",
+    "confidence": 0.83,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1026",
+    "category": "action_required",
+    "confidence": 0.92,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1027",
+    "category": "action_required",
+    "confidence": 0.9,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1028",
+    "category": "meeting_or_event",
+    "confidence": 0.39,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_1029",
+    "category": "action_required",
+    "confidence": 0.87,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1030",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1031",
+    "category": "action_required",
+    "confidence": 0.86,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1032",
+    "category": "meeting_or_event",
+    "confidence": 0.51,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_1033",
+    "category": "action_required",
+    "confidence": 0.89,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1034",
+    "category": "action_required",
+    "confidence": 0.77,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1035",
+    "category": "action_required",
+    "confidence": 0.85,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1036",
+    "category": "Sensitive Information",
+    "confidence": 0.99,
+    "reason": "Message contains highly sensitive identifiers masked by the privacy firewall."
+  },
+  {
+    "message_id": "MSG_1037",
+    "category": "action_required",
+    "confidence": 0.75,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1038",
+    "category": "Sensitive Information",
+    "confidence": 0.99,
+    "reason": "Message contains highly sensitive identifiers masked by the privacy firewall."
+  },
+  {
+    "message_id": "MSG_1039",
+    "category": "action_required",
+    "confidence": 0.75,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1040",
+    "category": "Sensitive Information",
+    "confidence": 0.99,
+    "reason": "Message contains highly sensitive identifiers masked by the privacy firewall."
+  },
+  {
+    "message_id": "MSG_1041",
+    "category": "personal_information",
+    "confidence": 0.98,
+    "reason": "The message contains user-specific preferences, identity markers, or internal profiles."
+  },
+  {
+    "message_id": "MSG_1042",
+    "category": "Sensitive Information",
+    "confidence": 0.99,
+    "reason": "Message contains highly sensitive identifiers masked by the privacy firewall."
+  },
+  {
+    "message_id": "MSG_1043",
+    "category": "personal_information",
+    "confidence": 0.67,
+    "reason": "The message contains user-specific preferences, identity markers, or internal profiles."
+  },
+  {
+    "message_id": "MSG_1044",
+    "category": "Sensitive Information",
+    "confidence": 0.99,
+    "reason": "Message contains highly sensitive identifiers masked by the privacy firewall."
+  },
+  {
+    "message_id": "MSG_1045",
+    "category": "action_required",
+    "confidence": 0.48,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1046",
+    "category": "Sensitive Information",
+    "confidence": 0.99,
+    "reason": "Message contains highly sensitive identifiers masked by the privacy firewall."
+  },
+  {
+    "message_id": "MSG_1047",
+    "category": "action_required",
+    "confidence": 0.78,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1048",
+    "category": "Sensitive Information",
+    "confidence": 0.99,
+    "reason": "Message contains highly sensitive identifiers masked by the privacy firewall."
+  },
+  {
+    "message_id": "MSG_1049",
+    "category": "action_required",
+    "confidence": 0.81,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1050",
+    "category": "Sensitive Information",
+    "confidence": 0.99,
+    "reason": "Message contains highly sensitive identifiers masked by the privacy firewall."
+  },
+  {
+    "message_id": "MSG_1051",
+    "category": "personal_information",
+    "confidence": 0.88,
+    "reason": "The message contains user-specific preferences, identity markers, or internal profiles."
+  },
+  {
+    "message_id": "MSG_1052",
+    "category": "Sensitive Information",
+    "confidence": 0.99,
+    "reason": "Message contains highly sensitive identifiers masked by the privacy firewall."
+  },
+  {
+    "message_id": "MSG_1053",
+    "category": "personal_information",
+    "confidence": 0.53,
+    "reason": "The message contains user-specific preferences, identity markers, or internal profiles."
+  },
+  {
+    "message_id": "MSG_1054",
+    "category": "Sensitive Information",
+    "confidence": 0.99,
+    "reason": "Message contains highly sensitive identifiers masked by the privacy firewall."
+  },
+  {
+    "message_id": "MSG_1055",
+    "category": "action_required",
+    "confidence": 0.81,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1056",
+    "category": "meeting_or_event",
+    "confidence": 0.32,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_1057",
+    "category": "meeting_or_event",
+    "confidence": 0.72,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_1058",
+    "category": "action_required",
+    "confidence": 0.48,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1059",
+    "category": "action_required",
+    "confidence": 0.61,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1060",
+    "category": "action_required",
+    "confidence": 0.29,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1061",
+    "category": "action_required",
+    "confidence": 0.74,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1062",
+    "category": "meeting_or_event",
+    "confidence": 0.58,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_1063",
+    "category": "action_required",
+    "confidence": 0.6,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1064",
+    "category": "action_required",
+    "confidence": 0.65,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1065",
+    "category": "action_required",
+    "confidence": 0.35,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1066",
+    "category": "action_required",
+    "confidence": 0.32,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1067",
+    "category": "meeting_or_event",
+    "confidence": 0.69,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_1068",
+    "category": "action_required",
+    "confidence": 0.47,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1069",
+    "category": "action_required",
+    "confidence": 0.63,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1070",
+    "category": "general_information",
+    "confidence": 0.31,
+    "reason": "The message contains standard informational updates or FYI statements."
+  },
+  {
+    "message_id": "MSG_1071",
+    "category": "action_required",
+    "confidence": 0.43,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1072",
+    "category": "meeting_or_event",
+    "confidence": 0.3,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_1073",
+    "category": "promotional",
+    "confidence": 0.44,
+    "reason": "The message is attempting to sell a service or product."
+  },
+  {
+    "message_id": "MSG_1074",
+    "category": "action_required",
+    "confidence": 0.74,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1075",
+    "category": "promotional",
+    "confidence": 0.29,
+    "reason": "The message is attempting to sell a service or product."
+  },
+  {
+    "message_id": "MSG_1076",
+    "category": "meeting_or_event",
+    "confidence": 0.41,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "MSG_1077",
+    "category": "personal_information",
+    "confidence": 0.32,
+    "reason": "The message contains user-specific preferences, identity markers, or internal profiles."
+  },
+  {
+    "message_id": "MSG_1078",
+    "category": "action_required",
+    "confidence": 0.65,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "MSG_1079",
+    "category": "promotional",
+    "confidence": 0.35,
+    "reason": "The message is attempting to sell a service or product."
+  },
+  {
+    "message_id": "MSG_1080",
+    "category": "meeting_or_event",
+    "confidence": 0.35,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "DEMO_001",
+    "category": "action_required",
+    "confidence": 0.72,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "DEMO_002",
+    "category": "action_required",
+    "confidence": 0.69,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "DEMO_003",
+    "category": "action_required",
+    "confidence": 0.35,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "DEMO_004",
+    "category": "action_required",
+    "confidence": 0.72,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "DEMO_005",
+    "category": "action_required",
+    "confidence": 0.5,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "DEMO_006",
+    "category": "action_required",
+    "confidence": 0.62,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "DEMO_007",
+    "category": "meeting_or_event",
+    "confidence": 0.6,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "DEMO_008",
+    "category": "meeting_or_event",
+    "confidence": 0.88,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "DEMO_009",
+    "category": "meeting_or_event",
+    "confidence": 0.72,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "DEMO_010",
+    "category": "action_required",
+    "confidence": 0.87,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "DEMO_011",
+    "category": "meeting_or_event",
+    "confidence": 0.7,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "DEMO_012",
+    "category": "Sensitive Information",
+    "confidence": 0.99,
+    "reason": "Message contains highly sensitive identifiers masked by the privacy firewall."
+  },
+  {
+    "message_id": "DEMO_013",
+    "category": "Sensitive Information",
+    "confidence": 0.99,
+    "reason": "Message contains highly sensitive identifiers masked by the privacy firewall."
+  },
+  {
+    "message_id": "DEMO_014",
+    "category": "action_required",
+    "confidence": 0.8,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "DEMO_015",
+    "category": "personal_information",
+    "confidence": 0.97,
+    "reason": "The message contains user-specific preferences, identity markers, or internal profiles."
+  },
+  {
+    "message_id": "DEMO_016",
+    "category": "action_required",
+    "confidence": 0.52,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "DEMO_017",
+    "category": "meeting_or_event",
+    "confidence": 0.62,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "DEMO_018",
+    "category": "meeting_or_event",
+    "confidence": 0.33,
+    "reason": "The message references scheduling, temporal markers, or locations for an event."
+  },
+  {
+    "message_id": "DEMO_019",
+    "category": "promotional",
+    "confidence": 0.81,
+    "reason": "The message contains discount codes or promotional marketing language."
+  },
+  {
+    "message_id": "DEMO_020",
+    "category": "action_required",
+    "confidence": 0.56,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "DEMO_021",
+    "category": "general_information",
+    "confidence": 0.31,
+    "reason": "The message contains standard informational updates or FYI statements."
+  },
+  {
+    "message_id": "DEMO_022",
+    "category": "action_required",
+    "confidence": 0.64,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "DEMO_023",
+    "category": "action_required",
+    "confidence": 0.37,
+    "reason": "The sender is prompting the user to complete a task or review an item."
+  },
+  {
+    "message_id": "DEMO_024",
+    "category": "action_required",
+    "confidence": 0.54,
+    "reason": "The sender is prompting the user to complete a task or review an item."
   }
 ]
